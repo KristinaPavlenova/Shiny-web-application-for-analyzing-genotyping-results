@@ -282,215 +282,44 @@ server <- function(input, output, session){
   })
   
 
-
-  
   observeEvent(input$blast, {
-     if (str_detect(parsedresults()[1, "Species"], ".eastern._18S") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the 18S (small subunit of ribosomal DNA) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus verrucosus</i></b> (eastern)"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], ".west._18S") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the 18S (small subunit of ribosomal DNA) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus verrucosus</i></b> (west)"),
-        easyClose = TRUE,
-        footer = NULL,
-        size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], ".southern._18S") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the 18S (small subunit of ribosomal DNA) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus verrucosus</i></b> (southern)"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], ".angara._18S") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the 18S (small subunit of ribosomal DNA) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus verrucosus</i></b> (angara)"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], "vittatus_18S") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the 18S (small subunit of ribosomal DNA) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus vittatus</i></b>"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], "cyaneus_18S") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the 18S (small subunit of ribosomal DNA) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus cyaneus</i></b>"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], "cruentus_18S") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the 18S (small subunit of ribosomal DNA) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus cruentus</i></b>"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], "inconspicuous_18S") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the 18S (small subunit of ribosomal DNA) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus inconspicuous</i></b>"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], "viridulus_18S") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the 18S (small subunit of ribosomal DNA) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus viridulus</i></b>"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], "maackii_18S") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the 18S (small subunit of ribosomal DNA) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus maackii</i></b>"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], "testaceus_18S") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the 18S (small subunit of ribosomal DNA) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus testaceus</i></b>"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], "viridis_18S") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the 18S (small subunit of ribosomal DNA) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus viridis</i></b>"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], "tchernykhi_18S") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the 18S (small subunit of ribosomal DNA) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus tchernykhi</i></b>"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], "obtusatus_18S") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the 18S (small subunit of ribosomal DNA) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus obtusatus</i></b>"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], "etingovae_18S") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the 18S (small subunit of ribosomal DNA) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus etingovae</i></b>"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], ".angara._COI") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the COI (cytochrome oxidase subunit I) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus verrucosus</i></b> (angara)"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], ".eastern._COI") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the COI (cytochrome oxidase subunit I) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus verrucosus</i></b> (eastern)"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], ".west._COI") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the COI (cytochrome oxidase subunit I) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus verrucosus</i></b> (west)"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], ".southern._COI") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the COI (cytochrome oxidase subunit I) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus verrucosus</i></b> (southern)"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], "_cyaneus_COI") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the COI (cytochrome oxidase subunit I) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus cyaneus</i></b>"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], "_vittatus_COI") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the COI (cytochrome oxidase subunit I) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus vitatus</i></b>"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], "_viridulus_COI") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the COI (cytochrome oxidase subunit I) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus viridulus</i></b>"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], "_inconspicuous_COI") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the COI (cytochrome oxidase subunit I) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus inconspicuous</i></b>"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], "_viridis_COI") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the COI (cytochrome oxidase subunit I) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus viridis</i></b>"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], "_cruentus_COI") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the COI (cytochrome oxidase subunit I) gene",
-        HTML("This sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus cruentus</i></b>"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], "_maacki_COI") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the COI (cytochrome oxidase subunit I) gene",
-        HTML("his sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus maacki</i></b>"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], ".angara2._COI") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the COI (cytochrome oxidase subunit I) gene",
-        HTML("his sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus verrucosus</i></b> (angara2)"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else if (str_detect(parsedresults()[1, "Species"], "_vittatus2_COI") == TRUE) {
-      showModal(modalDialog(
-        title = "This sequence is the COI (cytochrome oxidase subunit I) gene",
-        HTML("his sequence, with more than 95% identity, belongs to the species: <b><i>Eulimnogammarus vittatus</i></b> (2)"),
-        easyClose = TRUE,
-        footer = NULL, size = "xl"
-      ))
-    } else {
+    species_raw <- parsedresults()[1, "Species"]
+    
+    
+    pattern <- ".*?_([A-Z][a-z]+)_([a-z]+)(?:\\(([^)]+)\\))?_([A-Za-z0-9]+)$"
+    matches <- str_match(species_raw, pattern)
+    
+    if (is.na(matches[1])) {
       showModal(modalDialog(
         title = "No matches found!",
         HTML("If your % ID is greater than 95 try lowering it"),
         easyClose = TRUE,
-        footer = NULL, size = "m"
+        footer = NULL,
+        size = "m"
       ))
-  }
-})
+    } else {
+      genus <- matches[2]
+      species <- matches[3]
+      population <- matches[4]
+      gene <- matches[5]
+      
+      species_name <- paste(genus, species)
+      location <- if (!is.na(population)) paste0(" (", population, ")") else ""
+      
+      showModal(modalDialog(
+        title = paste("This sequence is the", gene, "gene"),
+        HTML(paste0(
+          "This sequence, with more than 95% identity, belongs to the species: <b><i>",
+          species_name, "</i></b>", location
+        )),
+        easyClose = TRUE,
+        footer = NULL,
+        size = "xl"
+      ))
+    }
+  })
+  
+  
 
 
   
