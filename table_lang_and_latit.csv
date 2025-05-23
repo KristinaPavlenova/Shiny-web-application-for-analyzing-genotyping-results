@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 Species,latitude,longitude
 A10_Eulimnogammarus_verrucosus(angara)_18S,52.282444,104.261889
 A85_Eulimnogammarus_verrucosus(angara)_18S,52.251139,104.320639
@@ -192,8 +191,6 @@ E_B26_Eulimnogammarus_vittatus2_COI,55.356944,109.199389
 E_Y01_Eulimnogammarus_vittatus_COI,51.870575,104.828272
 E_K16_Eulimnogammarus_vittatus_COI,51.903242,105.068781
 E_AY926666.1_Eulimnogammarus_vittatus_COI,53.203578,107.343833
-=======
-Species,latitude,longitude
 A10_Eulimnogammarus_verrucosus(angara)_18S,52.282444,104.261889
 A85_Eulimnogammarus_verrucosus(angara)_18S,52.251139,104.320639
 E3_Eulimnogammarus_verrucosus(southern)_18S,52.262111,104.282389
@@ -499,4 +496,17 @@ SRR3467095_Pallaseopsis_kessleri_18S,53.80,109.00
 SRR3467090_Pentagonurus_dawydowi_18S,52.99,106.90
 SRR3467101_Poekilogammarus_pictoides_18S,53.85,108.66
 SRR3467052_Sluginella_kietlinskii_18S,53.24,107.74
->>>>>>> Stashed changes
+KX341963_Crypturopus_tuberculatus_COI,52.777778,106.583333
+KX341966_Gmelinoides_fasciatus_COI,51.641944,103.767500
+KX341967_Linevichella_vortex_COI,51.853333,104.863333
+KP161875_Brachyuropus_grewingkii_COI,52.466667,106.091667
+KX341964_Eulimnogammarus_cyaneus_COI,51.646667,103.753889
+KF690638_Eulimnogammarus_verrucosus_COI,51.903242,105.068781
+KM287572_Eulimnogammarus_vittatus_COI,51.646666,103.753889
+KX341965_Garjajewia_cabanisii_COI,52.466667,106.091667
+KX341962_Acanthogammarus_victorii_COI,51.858333,104.843611
+KX341968_Pallaseopsis_kessleri_COI,52.777778,106.583333
+MT047459_Macrohectopus_branickii_COI,52.006667,105.984444
+BK059232_Echiuropus_macronychus_COI,52.990000,106.900000
+BK059231_Baikalogammarus_pullus_COI,51.900000,105.060000
+BK059230_Crypturopus_inflatus_COI,52.990000,106.899000
