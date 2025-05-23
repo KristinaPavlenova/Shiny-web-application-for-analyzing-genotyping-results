@@ -20,12 +20,12 @@ def calculate_identity(seq1, seq2):
             if seq1[start1 + i] == seq2[start2 + i]:
                 matches += 1
 
-    identity = matches / max(len(seq1), len(seq2)) * 100  # процент идентичности
+    identity = matches / max(len(seq1), len(seq2)) * 100  # % of identity
     return identity, alignment
 
 
 def process_fasta(input_file, reference_seq, min_identity=90.0):
-    sequences_to_save = []  # подходящие последовательности
+    sequences_to_save = []
 
     for seq_record in SeqIO.parse(input_file, "fasta"):
         seq = seq_record.seq

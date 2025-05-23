@@ -27,7 +27,6 @@ def compute_identity(seq1, seq2):
     return identity
 
 
-# Пример использования
 fasta1 = "18S_reference.fasta"
 fasta2 = "fin_file.fasta"
 

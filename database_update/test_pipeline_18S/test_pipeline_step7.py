@@ -1,7 +1,7 @@
 import os
 from Bio import SeqIO
 
-INPUT_DIR = "./processed_results"  # для обработанных последовательностей
+INPUT_DIR = "./processed_results"
 REFERENCE = "18S_reference.fasta"
 OUTPUT_DIR = "./final_results"
 BLASTDB_DIR = "./blast_reference_db"

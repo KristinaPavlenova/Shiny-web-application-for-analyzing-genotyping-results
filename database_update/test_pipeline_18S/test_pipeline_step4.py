@@ -11,7 +11,7 @@ hit_files = [
 ]
 
 for hit_file in hit_files:
-    species_name = hit_file[:-26]  # название вида из названия файла
+    species_name = hit_file[:-26]
     fasta_filename = species_name + ".fasta"
     fasta_path = os.path.join(fasta_dir, fasta_filename)
     if not os.path.exists(fasta_path):
@@ -22,7 +22,7 @@ for hit_file in hit_files:
     with open(best_hits_path, "r") as f:
         best_hits = [
             line.strip().split("\t")[1] for line in f.readlines()
-        ]  # названия контигов
+        ]  # contig names
     output_fasta_path = os.path.join(output_dir, f"{species_name}_18S_top5.fasta")
     # извлечение последовательности
     with open(output_fasta_path, "w") as out_f:

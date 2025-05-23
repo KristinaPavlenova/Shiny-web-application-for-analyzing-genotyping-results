@@ -17,9 +17,9 @@ for filename in os.listdir(INPUT_DIR):
     input_file = os.path.join(INPUT_DIR, filename)
     output_prefix = os.path.join(OUTPUT_DIR, species_name)
     print(f"\nОбработка {species_name}...")
-    combined_file = f"{output_prefix}_combined.fasta"  # временный файл с объединенными последовательностями
+    combined_file = f"{output_prefix}_combined.fasta"  # temp union file
     with open(combined_file, "w") as f:
-        # 1й - референс, потом последовательность вида
+        # 1st ref then specie seq
         ref_seq = next(SeqIO.parse(REFERENCE, "fasta"))
         query_seq = next(SeqIO.parse(input_file, "fasta"))
         SeqIO.write([ref_seq, query_seq], f, "fasta")
@@ -52,9 +52,9 @@ for filename in os.listdir(INPUT_DIR):
             )
             os.remove(combined_file)
             continue
-        trimmed_length = len(trimmed_seqs[1].seq)  # длина последовательности вида
+        trimmed_length = len(trimmed_seqs[1].seq)
 
-        if abs(trimmed_length - ref_length) > 0.1 * ref_length:  # допуск ±10%
+        if abs(trimmed_length - ref_length) > 0.1 * ref_length:  # +-10%
             print(f"ERROR: {filename} - bad length after trimming")
             print(f"Trimmed length: {trimmed_length}, Reference: {ref_length}")
         else:
