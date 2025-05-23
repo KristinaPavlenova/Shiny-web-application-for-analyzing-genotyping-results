@@ -1,0 +1,126 @@
+Name                                    Seq_ID                        Type           Subject_ID          Organism                                E-value   Identity  Align_len 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acanthogammarus_godlewskii_T285         TRINITY_DN233_c0_g1_i1        Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.62%    2124      
+Acanthogammarus_godlewskii_T285         TRINITY_DN233_c0_g1_i1        Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.34%    2265      
+Baikalogammarus_pullus_T285             _R_TRINITY_DN2_c0_g1_i19      Best_Identity  JF966129.1          Gammarus crinicaudatus voucher SLOCHN2340.0e+00   98.73%    1969      
+Baikalogammarus_pullus_T285             _R_TRINITY_DN2_c0_g1_i19      Best_Evalue    AF356545.1          Gammarus duebeni 18S small subunit ribos0.0e+00   98.1%     2262      
+Boeckaxelia_carpenterii_T285            TRINITY_DN9_c0_g1_i4          Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.39%    2135      
+Boeckaxelia_carpenterii_T285            TRINITY_DN9_c0_g1_i4          Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.21%    2266      
+Boeckaxelia_potanini_T285               _R_TRINITY_DN25_c0_g1_i2      Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.48%    2134      
+Boeckaxelia_potanini_T285               _R_TRINITY_DN25_c0_g1_i2      Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.25%    2265      
+Brachyuropus_grewingkii_T285            _R_TRINITY_DN289_c0_g2_i2     Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.63%    2134      
+Brachyuropus_grewingkii_T285            _R_TRINITY_DN289_c0_g2_i2     Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.38%    2265      
+Brandtia_latissima_T285                 TRINITY_DN4056_c0_g1_i3       Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.76%    2122      
+Brandtia_latissima_T285                 TRINITY_DN4056_c0_g1_i3       Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.56%    2265      
+Carinurus_bicarinatus_T285              _R_TRINITY_DN103_c0_g1_i1     Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.72%    2132      
+Carinurus_bicarinatus_T285              _R_TRINITY_DN103_c0_g1_i1     Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.47%    2263      
+Cornugammarus_maximus_T285              _R_TRINITY_DN1_c0_g1_i5       Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.72%    2132      
+Cornugammarus_maximus_T285              _R_TRINITY_DN1_c0_g1_i5       Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.47%    2263      
+Crypturopus_inflatus_T285               _R_TRINITY_DN24_c0_g1_i1      Best_Identity  MN005110.1          Asprogammarus sp. VNM-2020 isolate 39.2_0.0e+00   99.95%    2104      
+Crypturopus_inflatus_T285               _R_TRINITY_DN24_c0_g1_i1      Best_Evalue    MN005112.1          Crypturopus inflatus isolate 9.6_18S sma0.0e+00   99.86%    2119      
+Dorogostaiskia_parasitica_T285          _R_TRINITY_DN1430_c0_g2_i6    Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.67%    2122      
+Dorogostaiskia_parasitica_T285          _R_TRINITY_DN1430_c0_g2_i6    Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.46%    2240      
+Echiuropus_macronychus_T285             _R_TRINITY_DN2792_c0_g2_i1    Best_Identity  MN005114.1          Echiuropus macronychus isolate 9.9_18S s0.0e+00   99.81%    2129      
+Echiuropus_macronychus_T285             _R_TRINITY_DN2792_c0_g2_i1    Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.25%    2263      
+Eucarinogammarus_wagii_T285             _R_TRINITY_DN5450_c0_g1_i5    Best_Identity  MN005101.1          Eucarinogammarus wagii isolate 2.2_18S s0.0e+00   99.49%    2136      
+Eucarinogammarus_wagii_T285             _R_TRINITY_DN5450_c0_g1_i5    Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.29%    2267      
+Eulimnogammarus_cruentus_2_T285         TRINITY_DN1113_c0_g1_i6       Best_Identity  MN005111.1          Eulimnogammarus cruentus isolate 5.9_18S0.0e+00   99.62%    2131      
+Eulimnogammarus_cruentus_2_T285         TRINITY_DN1113_c0_g1_i6       Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.38%    2263      
+Eulimnogammarus_cruentus_T285           _R_TRINITY_DN1683_c0_g1_i4    Best_Identity  MN005111.1          Eulimnogammarus cruentus isolate 5.9_18S0.0e+00   99.77%    2131      
+Eulimnogammarus_cruentus_T285           _R_TRINITY_DN1683_c0_g1_i4    Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.43%    2263      
+Eulimnogammarus_cyaneus_T285            TRINITY_DN1165_c0_g1_i7       Best_Identity  MN005100.1          Eulimnogammarus cyaneus isolate 18.1_18S0.0e+00   99.72%    2131      
+Eulimnogammarus_cyaneus_T285            TRINITY_DN1165_c0_g1_i7       Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.34%    2263      
+Eulimnogammarus_czerskii_T285           _R_TRINITY_DN23_c0_g1_i5      Best_Identity  MN005111.1          Eulimnogammarus cruentus isolate 5.9_18S0.0e+00   99.77%    2131      
+Eulimnogammarus_czerskii_T285           _R_TRINITY_DN23_c0_g1_i5      Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.43%    2263      
+Eulimnogammarus_marituji_T285           TRINITY_DN133_c0_g2_i4        Best_Identity  MN005100.1          Eulimnogammarus cyaneus isolate 18.1_18S0.0e+00   99.58%    2131      
+Eulimnogammarus_marituji_T285           TRINITY_DN133_c0_g2_i4        Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.29%    2263      
+Eulimnogammarus_messerschmidtii_T285    _R_TRINITY_DN11709_c0_g1_i1   Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.34%    2132      
+Eulimnogammarus_messerschmidtii_T285    _R_TRINITY_DN11709_c0_g1_i1   Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.12%    2263      
+Eulimnogammarus_similis_T285            _R_TRINITY_DN16_c0_g1_i9      Best_Identity  MN005100.1          Eulimnogammarus cyaneus isolate 18.1_18S0.0e+00   99.58%    2131      
+Eulimnogammarus_similis_T285            _R_TRINITY_DN16_c0_g1_i9      Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.2%     2263      
+Eulimnogammarus_sp._gam16.4_T285        TRINITY_DN4_c0_g1_i7          Best_Identity  MN005100.1          Eulimnogammarus cyaneus isolate 18.1_18S0.0e+00   99.62%    2131      
+Eulimnogammarus_sp._gam16.4_T285        TRINITY_DN4_c0_g1_i7          Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.34%    2265      
+Eulimnogammarus_sp._gam2quest_T285      TRINITY_DN159_c0_g1_i5        Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.48%    2132      
+Eulimnogammarus_sp._gam2quest_T285      TRINITY_DN159_c0_g1_i5        Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.34%    2263      
+Eulimnogammarus_ussolzewii_T285         TRINITY_DN18_c0_g1_i6         Best_Identity  MN005111.1          Eulimnogammarus cruentus isolate 5.9_18S0.0e+00   99.62%    2131      
+Eulimnogammarus_ussolzewii_T285         TRINITY_DN18_c0_g1_i6         Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.38%    2263      
+Eulimnogammarus_verrucosus_T285         TRINITY_DN507_c0_g1_i5        Best_Identity  MN005111.1          Eulimnogammarus cruentus isolate 5.9_18S0.0e+00   99.34%    2131      
+Eulimnogammarus_verrucosus_T285         TRINITY_DN507_c0_g1_i5        Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.07%    2263      
+Eulimnogammarus_violaceus_T285          TRINITY_DN264_c0_g1_i14       Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.58%    2123      
+Eulimnogammarus_violaceus_T285          TRINITY_DN264_c0_g1_i14       Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.25%    2265      
+Eulimnogammarus_viridulus_T285          _R_TRINITY_DN5224_c0_g1_i3    Best_Identity  MN005100.1          Eulimnogammarus cyaneus isolate 18.1_18S0.0e+00   99.3%     2131      
+Eulimnogammarus_viridulus_T285          _R_TRINITY_DN5224_c0_g1_i3    Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.03%    2263      
+Eulimnogammarus_vittatus_T285           TRINITY_DN10693_c0_g2_i3      Best_Identity  MN005100.1          Eulimnogammarus cyaneus isolate 18.1_18S0.0e+00   99.2%     2131      
+Eulimnogammarus_vittatus_T285           TRINITY_DN10693_c0_g2_i3      Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   98.94%    2263      
+Gammarus_lacustris_T285                 TRINITY_DN6808_c0_g2_i1       Best_Identity  MW729658.1          Gammarus lacustris voucher GA6355 small 0.0e+00   99.91%    2185      
+Gammarus_lacustris_T285                 TRINITY_DN6808_c0_g2_i1       Best_Evalue    MW729658.1          Gammarus lacustris voucher GA6355 small 0.0e+00   99.91%    2185      
+Gammarus_minus_T2100                    TRINITY_DN865_c0_g1_i3        Best_Identity  EF582918.1          Gammarus minus voucher 674 18S ribosomal0.0e+00   99.37%    2062      
+Gammarus_minus_T2100                    TRINITY_DN865_c0_g1_i3        Best_Evalue    AY781422.1          Gammarus oceanicus small subunit ribosom0.0e+00   97.59%    2280      
+Gammarus_pisinnus_trinity285            TRINITY_DN88_c0_g1_i6         Best_Identity  EF582927.1          Gammarus sp. 2-315 18S ribosomal RNA gen0.0e+00   99.69%    1958      
+Gammarus_pisinnus_trinity285            TRINITY_DN88_c0_g1_i6         Best_Evalue    EF582921.1          Gammarus nekkensis voucher 59 18S riboso0.0e+00   99.22%    2190      
+Garjajewia_dershawini_T285              _R_TRINITY_DN454_c0_g1_i1     Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.72%    2122      
+Garjajewia_dershawini_T285              _R_TRINITY_DN454_c0_g1_i1     Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.43%    2263      
+Gmelinoides_fasciatus_T285              TRINITY_DN5_c0_g1_i5          Best_Identity  MH001607.1          Gmelinoides fasciatus isolate D1 18S rib0.0e+00   99.9%     2099      
+Gmelinoides_fasciatus_T285              TRINITY_DN5_c0_g1_i5          Best_Evalue    AF419225.1          Gammarus pulex 18S small subunit ribosom0.0e+00   97.87%    2250      
+Heterogammarus_sophianosii_T285         TRINITY_DN387_c0_g1_i7        Best_Identity  MN005111.1          Eulimnogammarus cruentus isolate 5.9_18S0.0e+00   99.58%    2131      
+Heterogammarus_sophianosii_T285         TRINITY_DN387_c0_g1_i7        Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.43%    2263      
+Homalogammarus_brandtii_T285            _R_TRINITY_DN8574_c0_g1_i1    Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.58%    2122      
+Homalogammarus_brandtii_T285            _R_TRINITY_DN8574_c0_g1_i1    Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.29%    2263      
+Hyalellopsis_carinata_T285              TRINITY_DN0_c0_g1_i5          Best_Identity  MN005106.1          Hyalellopsis carinata isolate 32.3_18S s0.0e+00   99.67%    2127      
+Hyalellopsis_carinata_T285              TRINITY_DN0_c0_g1_i5          Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.07%    2265      
+Hyalellopsis_setosa_T285                TRINITY_DN33_c0_g1_i6         Best_Identity  MN005106.1          Hyalellopsis carinata isolate 32.3_18S s0.0e+00   99.34%    2127      
+Hyalellopsis_setosa_T285                TRINITY_DN33_c0_g1_i6         Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.03%    2263      
+Linevichella_vortex_T285                TRINITY_DN8_c0_g1_i1          Best_Identity  MN005102.1          Linevichella vortex isolate 23.2_18S sma0.0e+00   99.29%    2117      
+Linevichella_vortex_T285                TRINITY_DN8_c0_g1_i1          Best_Evalue    AF202982.1          Gammarus pulex 18S ribosomal RNA gene, c0.0e+00   97.87%    2251      
+Macrohectopus_branickii_T285            TRINITY_DN1825_c0_g1_i6       Best_Identity  MN005110.1          Asprogammarus sp. VNM-2020 isolate 39.2_0.0e+00   100.0%    2104      
+Macrohectopus_branickii_T285            TRINITY_DN1825_c0_g1_i6       Best_Evalue    MN005112.1          Crypturopus inflatus isolate 9.6_18S sma0.0e+00   99.91%    2119      
+Macropereiopus_parvus_T285              TRINITY_DN1168_c0_g1_i5       Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.72%    2122      
+Macropereiopus_parvus_T285              TRINITY_DN1168_c0_g1_i5       Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.25%    2263      
+Macropereiopus_wagneri_T285             _R_TRINITY_DN476_c0_g1_i6     Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.95%    2132      
+Macropereiopus_wagneri_T285             _R_TRINITY_DN476_c0_g1_i6     Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.6%     2263      
+Micruropus_glaber_T285                  TRINITY_DN655_c0_g1_i9        Best_Identity  MN005109.1          Micruropus glaber isolate 36.2_18S small0.0e+00   99.72%    2106      
+Micruropus_glaber_T285                  TRINITY_DN655_c0_g1_i9        Best_Evalue    AF202982.1          Gammarus pulex 18S ribosomal RNA gene, c0.0e+00   98.09%    2250      
+Micruropus_wahlii_T285                  TRINITY_DN31_c0_g1_i4         Best_Identity  MN005109.1          Micruropus glaber isolate 36.2_18S small0.0e+00   99.57%    2106      
+Micruropus_wahlii_T285                  TRINITY_DN31_c0_g1_i4         Best_Evalue    AF202982.1          Gammarus pulex 18S ribosomal RNA gene, c0.0e+00   98.09%    2250      
+Odontogammarus_calcaratus_T285          _R_TRINITY_DN274_c0_g1_i2     Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.44%    2132      
+Odontogammarus_calcaratus_T285          _R_TRINITY_DN274_c0_g1_i2     Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.29%    2263      
+Ommatogammarus_albinus_T285             _R_TRINITY_DN2050_c0_g2_i5    Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.53%    2132      
+Ommatogammarus_albinus_T285             _R_TRINITY_DN2050_c0_g2_i5    Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.29%    2263      
+Ommatogammarus_flavus_T285              TRINITY_DN33_c6_g1_i3         Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.34%    2134      
+Ommatogammarus_flavus_T285              TRINITY_DN33_c6_g1_i3         Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.12%    2265      
+Oxyacanthus_curtus_T285                 TRINITY_DN475_c0_g1_i6        Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.72%    2132      
+Oxyacanthus_curtus_T285                 TRINITY_DN475_c0_g1_i6        Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.47%    2263      
+Oxyacanthus_flavus_T285                 _R_TRINITY_DN1777_c0_g2_i6    Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.72%    2132      
+Oxyacanthus_flavus_T285                 _R_TRINITY_DN1777_c0_g2_i6    Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.47%    2263      
+Oxyacanthus_sowinskii_T285              TRINITY_DN3531_c0_g1_i5       Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.81%    2132      
+Oxyacanthus_sowinskii_T285              TRINITY_DN3531_c0_g1_i5       Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.56%    2263      
+Pachyschesis_branchialis_2_T285         _R_TRINITY_DN12_c0_g1_i5      Best_Identity  MN005107.1          Pachyschesis branchialis isolate 35.6_180.0e+00   99.76%    2093      
+Pachyschesis_branchialis_2_T285         _R_TRINITY_DN12_c0_g1_i5      Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   98.17%    2289      
+Pachyschesis_branchialis_T285           TRINITY_DN1645_c0_g2_i1       Best_Identity  MN005107.1          Pachyschesis branchialis isolate 35.6_180.0e+00   99.14%    2093      
+Pachyschesis_branchialis_T285           TRINITY_DN1645_c0_g2_i1       Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   98.6%     2278      
+Palicarinus_puzyllii_T285               TRINITY_DN8_c1_g2_i1          Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.81%    2132      
+Palicarinus_puzyllii_T285               TRINITY_DN8_c1_g2_i1          Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.65%    2263      
+Pallasea_cancelloides_2_T285            TRINITY_DN2685_c0_g1_i2       Best_Identity  MN005101.1          Eucarinogammarus wagii isolate 2.2_18S s0.0e+00   99.58%    2131      
+Pallasea_cancelloides_2_T285            TRINITY_DN2685_c0_g1_i2       Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.38%    2263      
+Pallasea_cancelloides_T285              TRINITY_DN2989_c0_g3_i1       Best_Identity  MN005101.1          Eucarinogammarus wagii isolate 2.2_18S s0.0e+00   99.58%    2131      
+Pallasea_cancelloides_T285              TRINITY_DN2989_c0_g3_i1       Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.38%    2263      
+Pallasea_cancellus_T285                 TRINITY_DN594_c0_g1_i6        Best_Identity  MN005101.1          Eucarinogammarus wagii isolate 2.2_18S s0.0e+00   99.39%    2132      
+Pallasea_cancellus_T285                 TRINITY_DN594_c0_g1_i6        Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.16%    2264      
+Pallasea_grubei_T285                    TRINITY_DN2406_c0_g2_i5       Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.76%    2122      
+Pallasea_grubei_T285                    TRINITY_DN2406_c0_g2_i5       Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.56%    2263      
+Pallasea_sp._gam7.3_T285                _R_TRINITY_DN1088_c0_g1_i6    Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.48%    2122      
+Pallasea_sp._gam7.3_T285                _R_TRINITY_DN1088_c0_g1_i6    Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.2%     2257      
+Pallaseopsis_kessleri_T285              _R_TRINITY_DN47_c0_g1_i1      Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.58%    2132      
+Pallaseopsis_kessleri_T285              _R_TRINITY_DN47_c0_g1_i1      Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.43%    2263      
+Pandorites_podoceroides_T285            _R_TRINITY_DN1859_c0_g1_i11   Best_Identity  KF478615.1          Obesogammarus crassus voucher SLOCHN055 0.0e+00   99.9%     1922      
+Pandorites_podoceroides_T285            _R_TRINITY_DN1859_c0_g1_i11   Best_Evalue    EF582898.1          Dikerogammarus villosus voucher 676 18S 0.0e+00   99.21%    2162      
+Parapallasea_borowskii_T285             _R_TRINITY_DN3283_c0_g1_i5    Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.67%    2132      
+Parapallasea_borowskii_T285             _R_TRINITY_DN3283_c0_g1_i5    Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.51%    2263      
+Parapallasea_wosnessenskii_T285         TRINITY_DN1080_c0_g2_i10      Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.67%    2132      
+Parapallasea_wosnessenskii_T285         TRINITY_DN1080_c0_g2_i10      Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.51%    2263      
+Pentagonurus_dawydowi_T285              _R_TRINITY_DN34_c0_g1_i2      Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.76%    2122      
+Pentagonurus_dawydowi_T285              _R_TRINITY_DN34_c0_g1_i2      Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.56%    2263      
+Poekilogammarus_pictoides_T285          _R_TRINITY_DN0_c0_g1_i3       Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.48%    2122      
+Poekilogammarus_pictoides_T285          _R_TRINITY_DN0_c0_g1_i3       Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.29%    2263      
+Sluginella_kietlinskii_T285             TRINITY_DN15_c0_g1_i2         Best_Identity  MN005100.1          Eulimnogammarus cyaneus isolate 18.1_18S0.0e+00   99.3%     2131      
+Sluginella_kietlinskii_T285             TRINITY_DN15_c0_g1_i2         Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.03%    2263      

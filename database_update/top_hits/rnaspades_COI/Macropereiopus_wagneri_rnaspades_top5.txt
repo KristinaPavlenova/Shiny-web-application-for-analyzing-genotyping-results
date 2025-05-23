@@ -1,0 +1,5 @@
+NODE_175_length_4076_cov_4920.820710_g0_i6
+NODE_176_length_4076_cov_4915.858455_g0_i7
+NODE_36_length_5538_cov_3917.179632_g0_i2
+NODE_37_length_5538_cov_3899.419749_g0_i3
+NODE_40_length_5481_cov_3543.828792_g0_i4

@@ -1,0 +1,156 @@
+Name                                    Seq_ID                        Type           Subject_ID          Organism                                E-value   Identity  Align_len 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acanthogammarus_godlewskii_rnaspades    NODE_41_length_9587_cov_15664.560390_g2_i2Best_Identity  JN393755.1          Acanthogammarus cf. maculosus MED-2011 h0.0e+00   99.66%    585       
+Acanthogammarus_godlewskii_rnaspades    NODE_41_length_9587_cov_15664.560390_g2_i2Best_Evalue    KX341962.1          Acanthogammarus victorii mitochondrion  0.0e+00   81.46%    1537      
+Asprogammarus_rhodophthalmus_rnaspades  NODE_253_length_7883_cov_19397.656497_g8_i10Best_Identity  FJ756299.1          Asprogammarus seidlitzii voucher ASEI1 c0.0e+00   89.02%    592       
+Asprogammarus_rhodophthalmus_rnaspades  NODE_253_length_7883_cov_19397.656497_g8_i10Best_Evalue    NC_039353.1         Pseudoniphargus carpalis mitochondrion, 0.0e+00   76.62%    1373      
+Baikalogammarus_pullus_rnaspades        NODE_6153_length_2445_cov_56460.973706_g3_i65Best_Identity  BK059231.1          TPA_asm: Baikalogammarus pullus isolate 0.0e+00   99.93%    1535      
+Baikalogammarus_pullus_rnaspades        NODE_6153_length_2445_cov_56460.973706_g3_i65Best_Evalue    BK059231.1          TPA_asm: Baikalogammarus pullus isolate 0.0e+00   99.93%    1535      
+Boeckaxelia_carpenterii_rnaspades       _R_NODE_52_length_13993_cov_20479.817915_g1_i35Best_Identity  FJ756319.1          Dorogostaiskia parasitica voucher DPAR361.0e-152  82.62%    627       
+Boeckaxelia_carpenterii_rnaspades       _R_NODE_52_length_13993_cov_20479.817915_g1_i35Best_Evalue    OM828521.1          Gammarus lacustris voucher IZCASIA1347 c0.0e+00   78.97%    1260      
+Boeckaxelia_potanini_rnaspades          _R_NODE_6_length_12710_cov_4911.327620_g0_i2Best_Identity  JN393846.1          Brachyuropus grewingkii cytochrome oxida2.0e-169  85.59%    583       
+Boeckaxelia_potanini_rnaspades          _R_NODE_6_length_12710_cov_4911.327620_g0_i2Best_Evalue    NC_026309.1         Brachyuropus grewingkii mitochondrion, c0.0e+00   83.17%    1533      
+Brachyuropus_grewingkii_rnaspades       _R_NODE_22_length_14386_cov_19271.417870_g7_i9Best_Identity  FJ756300.1          Brachyuropus grewingkii voucher BGRE14 c0.0e+00   100.0%    627       
+Brachyuropus_grewingkii_rnaspades       _R_NODE_22_length_14386_cov_19271.417870_g7_i9Best_Evalue    NC_026309.1         Brachyuropus grewingkii mitochondrion, c0.0e+00   99.55%    1115      
+Brandtia_latissima_rnaspades            NODE_6_length_14004_cov_4175.113149_g1_i2Best_Identity  FJ756302.1          Brandtia latissima lata voucher BLATA66 0.0e+00   95.85%    626       
+Brandtia_latissima_rnaspades            NODE_6_length_14004_cov_4175.113149_g1_i2Best_Evalue    KX341965.1          Garjajewia cabanisii mitochondrion      0.0e+00   79.15%    1525      
+Carinurus_bicarinatus_rnaspades         _R_NODE_210_length_6920_cov_9826.417261_g4_i5Best_Identity  BK059232.1          TPA_asm: Echiuropus macronychus isolate 0.0e+00   84.45%    1524      
+Carinurus_bicarinatus_rnaspades         _R_NODE_210_length_6920_cov_9826.417261_g4_i5Best_Evalue    BK059232.1          TPA_asm: Echiuropus macronychus isolate 0.0e+00   84.45%    1524      
+Cornugammarus_maximus_rnaspades         _R_NODE_14_length_14492_cov_15328.514505_g10_i0Best_Identity  FJ756304.1          Cornugammarus maximus voucher CMAX4 cyto0.0e+00   98.88%    624       
+Cornugammarus_maximus_rnaspades         _R_NODE_14_length_14492_cov_15328.514505_g10_i0Best_Evalue    NC_026309.1         Brachyuropus grewingkii mitochondrion, c0.0e+00   84.07%    1532      
+Crypturopus_inflatus_rnaspades          NODE_13_length_15535_cov_2596.338564_g1_i5Best_Identity  BK059230.1          TPA_asm: Crypturopus inflatus isolate CI0.0e+00   99.41%    1534      
+Crypturopus_inflatus_rnaspades          NODE_13_length_15535_cov_2596.338564_g1_i5Best_Evalue    BK059230.1          TPA_asm: Crypturopus inflatus isolate CI0.0e+00   99.41%    1534      
+Dorogostaiskia_parasitica_rnaspades     _R_NODE_4_length_12014_cov_15932.866611_g1_i2Best_Identity  FJ756307.1          Dorogostaiskia parasitica voucher DPAR450.0e+00   99.68%    627       
+Dorogostaiskia_parasitica_rnaspades     _R_NODE_4_length_12014_cov_15932.866611_g1_i2Best_Evalue    BK059232.1          TPA_asm: Echiuropus macronychus isolate 0.0e+00   80.39%    1530      
+Echinogammarus_berilloni_rnaspades      _R_NODE_2149_length_7056_cov_43684.041840_g36_i40Best_Identity  BK059223.1          TPA_asm: Echinogammarus berilloni isolat0.0e+00   100.0%    1534      
+Echinogammarus_berilloni_rnaspades      _R_NODE_2149_length_7056_cov_43684.041840_g36_i40Best_Evalue    BK059223.1          TPA_asm: Echinogammarus berilloni isolat0.0e+00   100.0%    1534      
+Echiuropus_macronychus_rnaspades        _R_NODE_3_length_14790_cov_9415.881758_g0_i2Best_Identity  BK059232.1          TPA_asm: Echiuropus macronychus isolate 0.0e+00   100.0%    1534      
+Echiuropus_macronychus_rnaspades        _R_NODE_3_length_14790_cov_9415.881758_g0_i2Best_Evalue    BK059232.1          TPA_asm: Echiuropus macronychus isolate 0.0e+00   100.0%    1534      
+Eogammarus_possjeticus_rnaspades        NODE_7534_length_3538_cov_45477.859578_g1933_i7Best_Identity  OQ512158.1          Hyalidae sp. 15 HL-2023a voucher Trinity0.0e+00   99.64%    558       
+Eogammarus_possjeticus_rnaspades        NODE_7534_length_3538_cov_45477.859578_g1933_i7Best_Evalue    MN622346.1          Eogammarus possjeticus voucher LYL_10 cy0.0e+00   99.22%    640       
+Eucarinogammarus_wagii_rnaspades        _R_NODE_242_length_5609_cov_11995.829856_g62_i1Best_Identity  MN148349.1          Eucarinogammarus wagii isolate 2-2 cytoc0.0e+00   98.72%    701       
+Eucarinogammarus_wagii_rnaspades        _R_NODE_242_length_5609_cov_11995.829856_g62_i1Best_Evalue    NC_025564.1         Eulimnogammarus vittatus mitochondrion, 0.0e+00   83.22%    1526      
+Eulimnogammarus_cruentus_2_rnaspades    _R_NODE_70_length_12770_cov_11119.289993_g2_i4Best_Identity  MN148351.1          Eulimnogammarus cruentus isolate 5-9 cyt0.0e+00   98.62%    580       
+Eulimnogammarus_cruentus_2_rnaspades    _R_NODE_70_length_12770_cov_11119.289993_g2_i4Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   86.35%    1524      
+Eulimnogammarus_cruentus_rnaspades      _R_NODE_7_length_15709_cov_3231.331098_g0_i2Best_Identity  MN148351.1          Eulimnogammarus cruentus isolate 5-9 cyt0.0e+00   98.97%    580       
+Eulimnogammarus_cruentus_rnaspades      _R_NODE_7_length_15709_cov_3231.331098_g0_i2Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   86.47%    1523      
+Eulimnogammarus_cyaneus_rnaspades       NODE_25_length_11911_cov_9730.845389_g4_i1Best_Identity  MK887598.1          Eulimnogammarus cyaneus voucher Ecy_Bols0.0e+00   100.0%    631       
+Eulimnogammarus_cyaneus_rnaspades       NODE_25_length_11911_cov_9730.845389_g4_i1Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   98.24%    1534      
+Eulimnogammarus_czerskii_rnaspades      _R_NODE_1691_length_5402_cov_8567.469456_g8_i58Best_Identity  OR394359.1          Eulimnogammarus verrucosus voucher IBISU0.0e+00   85.29%    884       
+Eulimnogammarus_czerskii_rnaspades      _R_NODE_1691_length_5402_cov_8567.469456_g8_i58Best_Evalue    NC_023104.1         Eulimnogammarus verrucosus mitochondrion0.0e+00   84.59%    1531      
+Eulimnogammarus_marituji_rnaspades      _R_NODE_20_length_13037_cov_10655.640822_g0_i3Best_Identity  OR394382.1          Eulimnogammarus verrucosus voucher IBISU0.0e+00   85.61%    813       
+Eulimnogammarus_marituji_rnaspades      _R_NODE_20_length_13037_cov_10655.640822_g0_i3Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   85.31%    1532      
+Eulimnogammarus_messerschmidtii_rnaspades_R_NODE_2121_length_4174_cov_26147.434182_g176_i6Best_Identity  NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   87.04%    1512      
+Eulimnogammarus_messerschmidtii_rnaspades_R_NODE_2121_length_4174_cov_26147.434182_g176_i6Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   87.04%    1512      
+Eulimnogammarus_similis_rnaspades       _R_NODE_10675_length_1920_cov_19162.463923_g209_i26Best_Identity  NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   86.59%    1521      
+Eulimnogammarus_similis_rnaspades       _R_NODE_10675_length_1920_cov_19162.463923_g209_i26Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   86.59%    1521      
+Eulimnogammarus_sp._gam16.4_rnaspades   _R_NODE_4_length_13985_cov_10385.123565_g1_i1Best_Identity  KX341965.1          Garjajewia cabanisii mitochondrion      0.0e+00   83.16%    1532      
+Eulimnogammarus_sp._gam16.4_rnaspades   _R_NODE_4_length_13985_cov_10385.123565_g1_i1Best_Evalue    KX341965.1          Garjajewia cabanisii mitochondrion      0.0e+00   83.16%    1532      
+Eulimnogammarus_sp._gam2quest_rnaspades NODE_2643_length_4669_cov_13692.467316_g13_i13Best_Identity  AY926663.1          Eulimnogammarus maacki cytochrome oxidas0.0e+00   99.56%    450       
+Eulimnogammarus_sp._gam2quest_rnaspades NODE_2643_length_4669_cov_13692.467316_g13_i13Best_Evalue    NC_025564.1         Eulimnogammarus vittatus mitochondrion, 0.0e+00   84.38%    1485      
+Eulimnogammarus_testaceus_rnaspades     _R_NODE_1258_length_5617_cov_12232.956717_g152_i7Best_Identity  OR394322.1          Eulimnogammarus verrucosus voucher IBISU0.0e+00   85.04%    822       
+Eulimnogammarus_testaceus_rnaspades     _R_NODE_1258_length_5617_cov_12232.956717_g152_i7Best_Evalue    KX341965.1          Garjajewia cabanisii mitochondrion      0.0e+00   83.85%    1523      
+Eulimnogammarus_ussolzewii_rnaspades    _R_NODE_9_length_14612_cov_12128.856486_g1_i3Best_Identity  FJ756330.1          Garjajewia sarsi voucher GSAR3 cytochrom2.0e-159  83.55%    620       
+Eulimnogammarus_ussolzewii_rnaspades    _R_NODE_9_length_14612_cov_12128.856486_g1_i3Best_Evalue    KX341965.1          Garjajewia cabanisii mitochondrion      0.0e+00   81.43%    1524      
+Eulimnogammarus_verrucosus_rnaspades    _R_NODE_226_length_9246_cov_6082.067087_g26_i4Best_Identity  MK887394.1          Eulimnogammarus verrucosus voucher Eve_B0.0e+00   100.0%    603       
+Eulimnogammarus_verrucosus_rnaspades    _R_NODE_226_length_9246_cov_6082.067087_g26_i4Best_Evalue    NC_023104.1         Eulimnogammarus verrucosus mitochondrion0.0e+00   99.74%    1534      
+Eulimnogammarus_violaceus_rnaspades     NODE_18_length_13685_cov_12185.715386_g13_i2Best_Identity  PV474313.1          Ommatogammarus albinus isolate Pos_4_Oa_0.0e+00   84.79%    861       
+Eulimnogammarus_violaceus_rnaspades     NODE_18_length_13685_cov_12185.715386_g13_i2Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   83.9%     1534      
+Eulimnogammarus_viridulus_rnaspades     _R_NODE_21_length_14373_cov_11576.668389_g1_i2Best_Identity  MK887742.1          Eulimnogammarus vittatus voucher Evi_Lis0.0e+00   99.84%    640       
+Eulimnogammarus_viridulus_rnaspades     _R_NODE_21_length_14373_cov_11576.668389_g1_i2Best_Evalue    NC_025564.1         Eulimnogammarus vittatus mitochondrion, 0.0e+00   90.67%    1532      
+Eulimnogammarus_vittatus_rnaspades      NODE_34_length_9586_cov_5778.005243_g10_i1Best_Identity  MK887742.1          Eulimnogammarus vittatus voucher Evi_Lis0.0e+00   100.0%    640       
+Eulimnogammarus_vittatus_rnaspades      NODE_34_length_9586_cov_5778.005243_g10_i1Best_Evalue    NC_025564.1         Eulimnogammarus vittatus mitochondrion, 0.0e+00   90.6%     1532      
+Gammarus_chevreuxi_rnaspades            _R_NODE_26_length_14892_cov_23320.300883_g0_i16Best_Identity  BK059234.1          TPA_asm: Gammarus chevreuxi isolate GCHv0.0e+00   99.93%    1534      
+Gammarus_chevreuxi_rnaspades            _R_NODE_26_length_14892_cov_23320.300883_g0_i16Best_Evalue    BK059234.1          TPA_asm: Gammarus chevreuxi isolate GCHv0.0e+00   99.93%    1534      
+Gammarus_fossarum_rnaspades             NODE_2000_length_6966_cov_53743.169691_g32_i91Best_Identity  BK059227.1          TPA_asm: Gammarus fossarum isolate GFC m0.0e+00   98.63%    1534      
+Gammarus_fossarum_rnaspades             NODE_2000_length_6966_cov_53743.169691_g32_i91Best_Evalue    BK059227.1          TPA_asm: Gammarus fossarum isolate GFC m0.0e+00   98.63%    1534      
+Gammarus_lacustris_rnaspades            _R_NODE_80_length_6634_cov_2707.503113_g48_i1Best_Identity  OM828370.1          Gammarus lacustris voucher IZCASIA1358 c0.0e+00   99.52%    1259      
+Gammarus_lacustris_rnaspades            _R_NODE_80_length_6634_cov_2707.503113_g48_i1Best_Evalue    NC_044469.1         Gammarus lacustris mitochondrion, comple0.0e+00   98.17%    1534      
+Gammarus_pisinnus_rnaspades             NODE_519551_length_1496_cov_145.654836Best_Identity  EF650597.1          Embata parasitica isolate E.para.IT cyto0.0e+00   89.94%    656       
+Gammarus_pisinnus_rnaspades             NODE_519551_length_1496_cov_145.654836Best_Evalue    JX183997.1          Macrotrachela quadricornifera isolate HR0.0e+00   87.46%    1467      
+Gammarus_pulex_rnaspades                _R_NODE_10485_length_3445_cov_45209.241686_g42_i102Best_Identity  BK059228.1          TPA_asm: Gammarus pulex isolate GPUv6 mi0.0e+00   99.93%    1534      
+Gammarus_pulex_rnaspades                _R_NODE_10485_length_3445_cov_45209.241686_g42_i102Best_Evalue    BK059228.1          TPA_asm: Gammarus pulex isolate GPUv6 mi0.0e+00   99.93%    1534      
+Gammarus_wautieri_rnaspades             NODE_1124_length_7683_cov_66992.287536_g16_i39Best_Identity  BK059229.1          TPA_asm: Gammarus wautieri isolate GWAv10.0e+00   99.54%    1534      
+Gammarus_wautieri_rnaspades             NODE_1124_length_7683_cov_66992.287536_g16_i39Best_Evalue    BK059229.1          TPA_asm: Gammarus wautieri isolate GWAv10.0e+00   99.54%    1534      
+Garjajewia_dershawini_rnaspades         NODE_5_length_17770_cov_8856.786355_g0_i1Best_Identity  KX341965.1          Garjajewia cabanisii mitochondrion      0.0e+00   89.61%    1454      
+Garjajewia_dershawini_rnaspades         NODE_5_length_17770_cov_8856.786355_g0_i1Best_Evalue    KX341965.1          Garjajewia cabanisii mitochondrion      0.0e+00   89.61%    1454      
+Gmelinoides_fasciatus_rnaspades         NODE_182_length_6959_cov_29461.672214_g1_i8Best_Identity  NC_033361.1         Gmelinoides fasciatus mitochondrion, com0.0e+00   100.0%    1532      
+Gmelinoides_fasciatus_rnaspades         NODE_182_length_6959_cov_29461.672214_g1_i8Best_Evalue    NC_033361.1         Gmelinoides fasciatus mitochondrion, com0.0e+00   100.0%    1532      
+Heterogammarus_sophianosii_rnaspades    NODE_20_length_16151_cov_13547.691653_g3_i7Best_Identity  MN148349.1          Eucarinogammarus wagii isolate 2-2 cytoc0.0e+00   88.42%    708       
+Heterogammarus_sophianosii_rnaspades    NODE_20_length_16151_cov_13547.691653_g3_i7Best_Evalue    NC_025564.1         Eulimnogammarus vittatus mitochondrion, 0.0e+00   83.37%    1527      
+Hirondellea_gigas_rnaspades             NODE_1517_length_4709_cov_11508.664508_g833_i1Best_Identity  MN346426.1          Hirondellea gigas voucher 19S_Eury_2016_0.0e+00   100.0%    657       
+Hirondellea_gigas_rnaspades             NODE_1517_length_4709_cov_11508.664508_g833_i1Best_Evalue    KU558990.1          Hirondellea gigas clone mito1 mitochondr0.0e+00   97.98%    1534      
+Homalogammarus_brandtii_rnaspades       NODE_1655_length_3513_cov_18147.718822_g518_i1Best_Identity  NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   81.11%    1535      
+Homalogammarus_brandtii_rnaspades       NODE_1655_length_3513_cov_18147.718822_g518_i1Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   81.11%    1535      
+Hyalella_azteca_rnaspades               _R_NODE_24_length_10307_cov_25383.158423_g16_i0Best_Identity  KF596730.1          Hyalella azteca isolate Chesapeake 1 cyt0.0e+00   100.0%    692       
+Hyalella_azteca_rnaspades               _R_NODE_24_length_10307_cov_25383.158423_g16_i0Best_Evalue    JX446308.1          Hyalella azteca haplotype 2 cytochrome c0.0e+00   99.8%     1534      
+Hyalellopsis_carinata_rnaspades         NODE_3_length_25386_cov_6401.630343_g0_i2Best_Identity  MN148358.1          Hyalellopsis carinata isolate 32-3 cytoc0.0e+00   98.73%    708       
+Hyalellopsis_carinata_rnaspades         NODE_3_length_25386_cov_6401.630343_g0_i2Best_Evalue    MN148358.1          Hyalellopsis carinata isolate 32-3 cytoc0.0e+00   98.73%    708       
+Hyalellopsis_costata_rnaspades          NODE_12_length_13801_cov_18655.248982_g4_i1Best_Identity  PV474394.1          Ommatogammarus flavus isolate Bay_6_Of_18.0e-169  79.16%    878       
+Hyalellopsis_costata_rnaspades          NODE_12_length_13801_cov_18655.248982_g4_i1Best_Evalue    NC_026309.1         Brachyuropus grewingkii mitochondrion, c0.0e+00   78.58%    1531      
+Hyalellopsis_grisea_rnaspades           NODE_27_length_13432_cov_15366.362101_g0_i16Best_Identity  MN148352.1          Echiuropus macronychus isolate 9-9 cytoc0.0e+00   83.36%    709       
+Hyalellopsis_grisea_rnaspades           NODE_27_length_13432_cov_15366.362101_g0_i16Best_Evalue    BK059232.1          TPA_asm: Echiuropus macronychus isolate 0.0e+00   82.21%    1529      
+Hyalellopsis_setosa_rnaspades           _R_NODE_3_length_26071_cov_4620.740566_g0_i2Best_Identity  MN148356.1          Macropereiopus parvus isolate 24-7 cytoc1.0e-132  79.34%    697       
+Hyalellopsis_setosa_rnaspades           _R_NODE_3_length_26071_cov_4620.740566_g0_i2Best_Evalue    OM828562.1          Gammarus sp. 14 ZH-2022a voucher SLOCHN40.0e+00   77.0%     1187      
+Hyalellopsis_stebbingi_rnaspades        _R_NODE_377_length_6752_cov_27536.086976_g13_i11Best_Identity  OR394309.1          Eulimnogammarus verrucosus voucher IBISU8.0e-164  80.57%    772       
+Hyalellopsis_stebbingi_rnaspades        _R_NODE_377_length_6752_cov_27536.086976_g13_i11Best_Evalue    NC_017760.1         Gammarus duebeni mitochondrion, complete0.0e+00   77.06%    1517      
+Linevichella_vortex_rnaspades           _R_NODE_352_length_7030_cov_16293.036098_g5_i5Best_Identity  KX341967.1          Linevichella vortex mitochondrion, parti0.0e+00   99.69%    1285      
+Linevichella_vortex_rnaspades           _R_NODE_352_length_7030_cov_16293.036098_g5_i5Best_Evalue    KX341967.1          Linevichella vortex mitochondrion, parti0.0e+00   99.69%    1285      
+Macrohectopus_branickii_rnaspades       NODE_8_length_13305_cov_10637.423054_g1_i3Best_Identity  FJ756336.1          Macrohectopus branickii voucher MBRA7 cy0.0e+00   100.0%    591       
+Macrohectopus_branickii_rnaspades       NODE_8_length_13305_cov_10637.423054_g1_i3Best_Evalue    NC_058990.1         Macrohectopus branickii mitochondrion, c0.0e+00   99.93%    1534      
+Macropereiopus_parvus_rnaspades         _R_NODE_2935_length_4270_cov_25887.161099_g74_i14Best_Identity  MN148356.1          Macropereiopus parvus isolate 24-7 cytoc0.0e+00   99.18%    607       
+Macropereiopus_parvus_rnaspades         _R_NODE_2935_length_4270_cov_25887.161099_g74_i14Best_Evalue    BK059232.1          TPA_asm: Echiuropus macronychus isolate 0.0e+00   81.16%    1417      
+Macropereiopus_wagneri_rnaspades        _R_NODE_175_length_4076_cov_4920.820710_g0_i6Best_Identity  NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   84.24%    1536      
+Macropereiopus_wagneri_rnaspades        _R_NODE_175_length_4076_cov_4920.820710_g0_i6Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   84.24%    1536      
+Marinogammarus_marinus_rnaspades        NODE_95_length_12984_cov_52503.323545_g8_i6Best_Identity  BK059224.1          TPA_asm: Marinogammarus marinus isolate 0.0e+00   100.0%    1534      
+Marinogammarus_marinus_rnaspades        NODE_95_length_12984_cov_52503.323545_g8_i6Best_Evalue    BK059224.1          TPA_asm: Marinogammarus marinus isolate 0.0e+00   100.0%    1534      
+Micruropus_glaber_rnaspades             NODE_299_length_7239_cov_6437.717524_g7_i3Best_Identity  AY926682.1          Micruropus glaber cytochrome oxidase sub0.0e+00   91.79%    694       
+Micruropus_glaber_rnaspades             NODE_299_length_7239_cov_6437.717524_g7_i3Best_Evalue    AY926682.1          Micruropus glaber cytochrome oxidase sub0.0e+00   91.79%    694       
+Micruropus_parvulus_rnaspades           NODE_70_length_9565_cov_21179.287411_g1_i5Best_Identity  OM828464.1          Gammarus jaspidus voucher IZCASIA1927 cy1.0e-167  78.77%    909       
+Micruropus_parvulus_rnaspades           NODE_70_length_9565_cov_21179.287411_g1_i5Best_Evalue    OM828462.1          Gammarus lacustris voucher IZCASIA1925 c0.0e+00   78.14%    1217      
+Micruropus_wahlii_rnaspades             NODE_22247_length_1635_cov_1417.979219_g11519_i0Best_Identity  FJ756340.1          Micruropus wahlii voucher MWAH2 cytochro0.0e+00   90.26%    626       
+Micruropus_wahlii_rnaspades             NODE_22247_length_1635_cov_1417.979219_g11519_i0Best_Evalue    NC_039402.1         Parhyale hawaiensis mitochondrion, compl0.0e+00   78.91%    1437      
+Odontogammarus_calcaratus_rnaspades     _R_NODE_235_length_8168_cov_13888.785442_g5_i10Best_Identity  FJ756341.1          Odontogammarus calcaratus voucher OCAL200.0e+00   92.82%    627       
+Odontogammarus_calcaratus_rnaspades     _R_NODE_235_length_8168_cov_13888.785442_g5_i10Best_Evalue    NC_026309.1         Brachyuropus grewingkii mitochondrion, c0.0e+00   82.93%    1535      
+Ommatogammarus_albinus_rnaspades        _R_NODE_252_length_10205_cov_9720.272647_g3_i20Best_Identity  PV474313.1          Ommatogammarus albinus isolate Pos_4_Oa_0.0e+00   100.0%    863       
+Ommatogammarus_albinus_rnaspades        _R_NODE_252_length_10205_cov_9720.272647_g3_i20Best_Evalue    PV474313.1          Ommatogammarus albinus isolate Pos_4_Oa_0.0e+00   100.0%    863       
+Ommatogammarus_flavus_rnaspades         NODE_59_length_11849_cov_9828.488305_g2_i5Best_Identity  PV474353.1          Ommatogammarus flavus isolate BK_19_Of_20.0e+00   99.89%    890       
+Ommatogammarus_flavus_rnaspades         NODE_59_length_11849_cov_9828.488305_g2_i5Best_Evalue    PV474353.1          Ommatogammarus flavus isolate BK_19_Of_20.0e+00   99.89%    890       
+Oxyacanthus_curtus_rnaspades            _R_NODE_17_length_17753_cov_5185.770843_g0_i10Best_Identity  JN393847.1          Oxyacanthus flavus cytochrome oxidase su0.0e+00   99.66%    585       
+Oxyacanthus_curtus_rnaspades            _R_NODE_17_length_17753_cov_5185.770843_g0_i10Best_Evalue    NC_023104.1         Eulimnogammarus verrucosus mitochondrion0.0e+00   80.85%    1504      
+Oxyacanthus_flavus_rnaspades            _R_NODE_46_length_13316_cov_5254.270521_g6_i5Best_Identity  AY061800.1          Oxyacanthus flavus cytochrome oxidase su0.0e+00   99.09%    552       
+Oxyacanthus_flavus_rnaspades            _R_NODE_46_length_13316_cov_5254.270521_g6_i5Best_Evalue    NC_023104.1         Eulimnogammarus verrucosus mitochondrion0.0e+00   80.92%    1504      
+Oxyacanthus_sowinskii_rnaspades         NODE_19_length_15827_cov_11521.722018_g0_i11Best_Identity  OR394278.1          Eulimnogammarus verrucosus voucher IBISU0.0e+00   84.4%     782       
+Oxyacanthus_sowinskii_rnaspades         NODE_19_length_15827_cov_11521.722018_g0_i11Best_Evalue    KX341965.1          Garjajewia cabanisii mitochondrion      0.0e+00   81.78%    1520      
+Pachyschesis_branchialis_2_rnaspades    NODE_1_length_14059_cov_26894.746966_g0_i0Best_Identity  MN148359.1          Pachyschesis branchialis isolate 35-6 cy0.0e+00   98.44%    705       
+Pachyschesis_branchialis_2_rnaspades    NODE_1_length_14059_cov_26894.746966_g0_i0Best_Evalue    MN148359.1          Pachyschesis branchialis isolate 35-6 cy0.0e+00   98.44%    705       
+Pachyschesis_branchialis_rnaspades      NODE_4411_length_3344_cov_10806.215175_g4_i14Best_Identity  MN148359.1          Pachyschesis branchialis isolate 35-6 cy0.0e+00   87.68%    706       
+Pachyschesis_branchialis_rnaspades      NODE_4411_length_3344_cov_10806.215175_g4_i14Best_Evalue    BK059232.1          TPA_asm: Echiuropus macronychus isolate 0.0e+00   80.29%    1527      
+Palicarinus_puzyllii_rnaspades          _R_NODE_12_length_15656_cov_19273.161402_g0_i2Best_Identity  OR394343.1          Eulimnogammarus verrucosus voucher IBISU0.0e+00   81.92%    852       
+Palicarinus_puzyllii_rnaspades          _R_NODE_12_length_15656_cov_19273.161402_g0_i2Best_Evalue    NC_025564.1         Eulimnogammarus vittatus mitochondrion, 0.0e+00   81.0%     1526      
+Pallasea_cancelloides_2_rnaspades       _R_NODE_9_length_10644_cov_18398.895725_g7_i0Best_Identity  MG936047.1          Pallaseopsis kessleri voucher 11NJBaikal0.0e+00   97.13%    453       
+Pallasea_cancelloides_2_rnaspades       _R_NODE_9_length_10644_cov_18398.895725_g7_i0Best_Evalue    NC_026309.1         Brachyuropus grewingkii mitochondrion, c0.0e+00   78.02%    1529      
+Pallasea_cancelloides_rnaspades         _R_NODE_1966_length_2572_cov_8185.120095_g136_i7Best_Identity  MG936047.1          Pallaseopsis kessleri voucher 11NJBaikal0.0e+00   96.92%    455       
+Pallasea_cancelloides_rnaspades         _R_NODE_1966_length_2572_cov_8185.120095_g136_i7Best_Evalue    NC_026309.1         Brachyuropus grewingkii mitochondrion, c0.0e+00   78.42%    1418      
+Pallasea_cancellus_rnaspades            NODE_769_length_6757_cov_9931.705277_g44_i4Best_Identity  FJ756343.1          Pallasea cancellus voucher PCAN9 cytochr0.0e+00   99.52%    627       
+Pallasea_cancellus_rnaspades            NODE_769_length_6757_cov_9931.705277_g44_i4Best_Evalue    NC_026309.1         Brachyuropus grewingkii mitochondrion, c0.0e+00   81.36%    1529      
+Pallasea_grubei_rnaspades               NODE_1153_length_5420_cov_10579.713461_g494_i1Best_Identity  AY926688.1          Pallasea grubei cytochrome oxidase subun0.0e+00   92.17%    498       
+Pallasea_grubei_rnaspades               NODE_1153_length_5420_cov_10579.713461_g494_i1Best_Evalue    NC_033362.1         Pallaseopsis kessleri mitochondrion, com0.0e+00   83.36%    1526      
+Pallasea_sp._gam7.3_rnaspades           NODE_24_length_12888_cov_11141.344809_g2_i3Best_Identity  NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   81.04%    1535      
+Pallasea_sp._gam7.3_rnaspades           NODE_24_length_12888_cov_11141.344809_g2_i3Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   81.04%    1535      
+Pallaseopsis_kessleri_rnaspades         _R_NODE_14_length_19711_cov_8846.089971_g0_i8Best_Identity  GQ919202.1          Babr nigromaculatus isolate A60 cytochro0.0e+00   98.56%    627       
+Pallaseopsis_kessleri_rnaspades         _R_NODE_14_length_19711_cov_8846.089971_g0_i8Best_Evalue    GQ919202.1          Babr nigromaculatus isolate A60 cytochro0.0e+00   98.56%    627       
+Pandorites_podoceroides_rnaspades       NODE_3_length_12588_cov_7875.066672_g1_i0Best_Identity  BK059235.1          TPA_asm: Pandorites podoceroides isolate0.0e+00   99.87%    1535      
+Pandorites_podoceroides_rnaspades       NODE_3_length_12588_cov_7875.066672_g1_i0Best_Evalue    BK059235.1          TPA_asm: Pandorites podoceroides isolate0.0e+00   99.87%    1535      
+Parapallasea_wosnessenskii_rnaspades    _R_NODE_6599_length_2743_cov_31805.806978_g7_i24Best_Identity  PV474301.1          Ommatogammarus albinus isolate BK_39_Oa_0.0e+00   85.87%    821       
+Parapallasea_wosnessenskii_rnaspades    _R_NODE_6599_length_2743_cov_31805.806978_g7_i24Best_Evalue    KX341965.1          Garjajewia cabanisii mitochondrion      0.0e+00   84.3%     1357      
+Parhyale_hawaiensis_rnaspades           NODE_486_length_5968_cov_4558.553851_g63_i4Best_Identity  NC_039402.1         Parhyale hawaiensis mitochondrion, compl0.0e+00   100.0%    1534      
+Parhyale_hawaiensis_rnaspades           NODE_486_length_5968_cov_4558.553851_g63_i4Best_Evalue    NC_039402.1         Parhyale hawaiensis mitochondrion, compl0.0e+00   100.0%    1534      
+Pentagonurus_dawydowi_rnaspades         _R_NODE_2290_length_4749_cov_41922.743617_g16_i48Best_Identity  AY926688.1          Pallasea grubei cytochrome oxidase subun0.0e+00   88.73%    550       
+Pentagonurus_dawydowi_rnaspades         _R_NODE_2290_length_4749_cov_41922.743617_g16_i48Best_Evalue    NC_033362.1         Pallaseopsis kessleri mitochondrion, com0.0e+00   83.22%    1532      
+Poekilogammarus_pictoides_rnaspades     NODE_1510_length_5318_cov_41772.153350_g0_i36Best_Identity  BK059232.1          TPA_asm: Echiuropus macronychus isolate 0.0e+00   80.48%    1501      
+Poekilogammarus_pictoides_rnaspades     NODE_1510_length_5318_cov_41772.153350_g0_i36Best_Evalue    BK059232.1          TPA_asm: Echiuropus macronychus isolate 0.0e+00   80.48%    1501      
+Sluginella_kietlinskii_rnaspades        NODE_46_length_5127_cov_25327.130118_g30_i0Best_Identity  PV474408.1          Ommatogammarus flavus isolate BG_24_Of_10.0e+00   84.68%    888       
+Sluginella_kietlinskii_rnaspades        NODE_46_length_5127_cov_25327.130118_g30_i0Best_Evalue    KX341965.1          Garjajewia cabanisii mitochondrion      0.0e+00   84.34%    1513      
+Talitrus_saltator_rnaspades             _R_NODE_1725_length_4069_cov_7597.347761_g1295_i0Best_Identity  OQ512492.1          Talitrus saltator voucher 2113 cytochrom0.0e+00   99.67%    605       
+Talitrus_saltator_rnaspades             _R_NODE_1725_length_4069_cov_7597.347761_g1295_i0Best_Evalue    MG010371.1          Platorchestia parapacifica isolate A mit0.0e+00   80.82%    1517      

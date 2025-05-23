@@ -1,0 +1,3 @@
+NODE_4_length_9829_cov_950.867280_g2_i0
+NODE_4_length_9829_cov_950.867280_g2_i0
+NODE_54_length_6840_cov_1084.989987_g2_i1

@@ -1,0 +1,6 @@
+NODE_16_length_8577_cov_613.017237_g9_i0
+NODE_750_length_4218_cov_13.882466_g522_i0
+NODE_750_length_4218_cov_13.882466_g522_i0
+NODE_750_length_4218_cov_13.882466_g522_i0
+NODE_16_length_8577_cov_613.017237_g9_i0
+NODE_750_length_4218_cov_13.882466_g522_i0

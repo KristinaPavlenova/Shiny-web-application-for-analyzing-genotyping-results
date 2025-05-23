@@ -1,0 +1,5 @@
+NODE_17_length_17753_cov_5185.770843_g0_i10
+NODE_1_length_31728_cov_4832.479213_g0_i0
+NODE_1_length_31728_cov_4832.479213_g0_i0
+NODE_2_length_31690_cov_4747.280712_g0_i1
+NODE_2_length_31690_cov_4747.280712_g0_i1
