@@ -232,17 +232,20 @@ You must obtain the files, as in ```main_pipeline_results_example``` directory
 The pipelines was developed by:
 
 - **Kristina Pavlenova**
+
   📧 Email: [pavlenova.kristina@gmail.com]  
   🏢 Affiliation: 
   - BIOCAD, 198515, St. Petersburg, Russia
   - Bioinformatics Institute, Kantemirovskaya st. 2A, 197342, St. Petersburg, Russia
 
 - **Valeria Afanasyeva**
+
   📧 Email: [digitalvaleria0.0@gmail.com]  
   🏢 Affiliation: 
   - I.M. Sechenov First Moscow State Medical University, 119048, Moscow, Russia
   - Bioinformatics Institute, Kantemirovskaya st. 2A, 197342, St. Petersburg, Russia
 
-- **Polina Drozdova** 
+- **Polina Drozdova**
+
   🏢 Affiliation: 
   - Irkutsk State University, 664003, Irkutsk, Russia
