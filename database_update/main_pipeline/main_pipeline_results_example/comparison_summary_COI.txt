@@ -1,0 +1,2 @@
+Sequence_ID	Len_Seq_rnaspades	Len_Seq_trinity	Identity	Alignment_Len	Len_Seq_wo_gaps_rnaspades	Len_Seq_wo_gaps_trinity	Identity_wo_gaps
+Sluginella_kietlinskii	1535	1534	99.935	1535	1535	1534	n/a

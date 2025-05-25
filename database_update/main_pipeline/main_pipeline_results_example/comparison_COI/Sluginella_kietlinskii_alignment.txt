@@ -1,0 +1,103 @@
+target            0 atcaatcagtgactattttccactaaccataaagatattggcactttatattttattctg
+                  0 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query             0 atcaatcagtgactattttccactaaccataaagatattggcactttatattttattctg
+
+target           60 ggagcttgagctagaatagtgggtacttctataagagtaattattcgatctgagctgagg
+                 60 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query            60 ggagcttgagctagaatagtgggtacttctataagagtaattattcgatctgagctgagg
+
+target          120 gccccgggtaatttaatcggcgatgatcaactatataatgttatggttacagcccatgct
+                120 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query           120 gccccgggtaatttaatcggcgatgatcaactatataatgttatggttacagcccatgct
+
+target          180 ttcgttataatttttttttatagtcatacctattataattggtgggtttggtaattggct
+                180 ||||||||||-|||||||||||||||||||||||||||||||||||||||||||||||||
+query           180 ttcgttataa-ttttttttatagtcatacctattataattggtgggtttggtaattggct
+
+target          240 agttcctttaatactaggtagacctgatatggcttttccgcgaataaataacataagatt
+                240 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query           239 agttcctttaatactaggtagacctgatatggcttttccgcgaataaataacataagatt
+
+target          300 ttggttactacccccctctcttaccttacttatcgccaggggtcttgtagagagaggtgt
+                300 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query           299 ttggttactacccccctctcttaccttacttatcgccaggggtcttgtagagagaggtgt
+
+target          360 tggcacaggttgaaccgtgtacccccctttagctggcgtaatagcccatagagggggggc
+                360 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query           359 tggcacaggttgaaccgtgtacccccctttagctggcgtaatagcccatagagggggggc
+
+target          420 tgttgatttagctattttttccttgcatctagcgggtgcttcctctattttgggtgcggt
+                420 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query           419 tgttgatttagctattttttccttgcatctagcgggtgcttcctctattttgggtgcggt
+
+target          480 aaattttatctctacaattattaatatacggagaccaggcataagaatagaccaaatgcc
+                480 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query           479 aaattttatctctacaattattaatatacggagaccaggcataagaatagaccaaatgcc
+
+target          540 tttatttgtttggtctattcttattactacagttttactacttttatctttaccggtttt
+                540 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query           539 tttatttgtttggtctattcttattactacagttttactacttttatctttaccggtttt
+
+target          600 agcaggggctattactatactattgactgaccgcaacctaaatacttcttttttcgaccc
+                600 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query           599 agcaggggctattactatactattgactgaccgcaacctaaatacttcttttttcgaccc
+
+target          660 tagtggaggaggtgaccctatcttataccaacatttattttgattttttggccacccaga
+                660 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query           659 tagtggaggaggtgaccctatcttataccaacatttattttgattttttggccacccaga
+
+target          720 agtttatattctgatcctacctgcttttggtataatctcccatattgttagacaagagtc
+                720 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query           719 agtttatattctgatcctacctgcttttggtataatctcccatattgttagacaagagtc
+
+target          780 aggtaaaaaagaaacatttggttcgttgggtataatctatgctatactagctattgggtt
+                780 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query           779 aggtaaaaaagaaacatttggttcgttgggtataatctatgctatactagctattgggtt
+
+target          840 tcttggttttattgtctgggctcaccatatatttacagttggtatagacgtagatactcg
+                840 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query           839 tcttggttttattgtctgggctcaccatatatttacagttggtatagacgtagatactcg
+
+target          900 agcttattttacttcggccacaataattattgcagtacctactggtattaaagtatttag
+                900 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query           899 agcttattttacttcggccacaataattattgcagtacctactggtattaaagtatttag
+
+target          960 ttggttaggcactttacaaggaggtaaaattaattttacgcccgctctaatttgaaggct
+                960 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query           959 ttggttaggcactttacaaggaggtaaaattaattttacgcccgctctaatttgaaggct
+
+target         1020 cggttttattttccttttctctatcggaggtttaactggtgttatgttagctaactcatc
+               1020 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query          1019 cggttttattttccttttctctatcggaggtttaactggtgttatgttagctaactcatc
+
+target         1080 aattgatattgttttacatgatacttactacgtggtagcacactttcattatgttttatc
+               1080 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query          1079 aattgatattgttttacatgatacttactacgtggtagcacactttcattatgttttatc
+
+target         1140 tatgggagctgtttttggtatttttgctggatttgcttactggtttccattatttacggg
+               1140 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query          1139 tatgggagctgtttttggtatttttgctggatttgcttactggtttccattatttacggg
+
+target         1200 tgtaacaactaacccaattttagcgaagatacacttttatattatatttgtaggcgtaaa
+               1200 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query          1199 tgtaacaactaacccaattttagcgaagatacacttttatattatatttgtaggcgtaaa
+
+target         1260 tttaacttttttccctcaacacttccttggtttaactggaatacctcgccgatactctga
+               1260 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query          1259 tttaacttttttccctcaacacttccttggtttaactggaatacctcgccgatactctga
+
+target         1320 ttaccctgattcctttacagcctgaaatattgtttcttctttaggctcttatatctctgt
+               1320 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query          1319 ttaccctgattcctttacagcctgaaatattgtttcttctttaggctcttatatctctgt
+
+target         1380 tttagctatagtggtatttattactataattatagaagcttttatcgctaagcggccagc
+               1380 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query          1379 tttagctatagtggtatttattactataattatagaagcttttatcgctaagcggccagc
+
+target         1440 tttgttttccttaagtctatcatctgctttagagtgacaccatccttaccccccagctga
+               1440 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query          1439 tttgttttccttaagtctatcatctgctttagagtgacaccatccttaccccccagctga
+
+target         1500 ccatagttacaacgatacccctattctaacctcat 1535
+               1500 ||||||||||||||||||||||||||||||||||| 1535
+query          1499 ccatagttacaacgatacccctattctaacctcat 1534

@@ -93,7 +93,7 @@ def save_alignment_text(alignment: Alignment, output_path: str) -> None:
         f.write(alignment_str)
 
 
-def collect_trimmed_seqs(dir: str, assembly: str, gene: str) -> None:
+def collect_trimmed_seqs(dir: str, assembly: str, gene: str, out_dir: str) -> str:
     fastanames = glob.glob("*_trimmed_best.fasta", root_dir=dir)
     for fasta in fastanames:
         file = os.path.join(dir, fasta)
@@ -101,5 +101,7 @@ def collect_trimmed_seqs(dir: str, assembly: str, gene: str) -> None:
         with open(file, "r") as f:
             record = next(SeqIO.parse(f, "fasta"))
             record.id = "_".join(name.split("_")[:-1])
-            with open(f"{assembly}_{gene}.fasta", "a") as out_file:
+            final_fasta = os.path.join(out_dir, f"{assembly}_{gene}.fasta")
+            with open(final_fasta, "a") as out_file:
                 SeqIO.write(record, out_file, "fasta")
+    return final_fasta

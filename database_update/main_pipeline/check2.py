@@ -5,24 +5,18 @@ import glob
 import os, os.path
 from Bio import SeqIO
 import re
-from seqs_process import extract_hits
+from modules.seqs_process import extract_hits
+from config import assembly, gene, idxs, log_file
 
-dir_with_mafft_results = (
-    "mafft_results_18S"  # указать директорию с результатами mafft-выравнивания
-)
-os.makedirs("top1_check", exist_ok=True)
-os.makedirs("logs", exist_ok=True)
-log_file = os.path.join("logs", "blast_request.log")  # указать файл для логов
-table_path = os.path.join(
-    "top1_check", "blast_summary_test.txt"
+os.makedirs(os.path.join(
+    "main_pipeline_results", "top1_check"), exist_ok=True)
+table_path = os.path.join("main_pipeline_results",
+    "top1_check", f"blast_summary_{assembly}_{gene}.txt"
 )  # указать файл для результатов проверки
-gene = "18S"  # указать ген для поиска (COI или 18S)
-fastanames = glob.glob("*_trimmed_best.fasta", root_dir=dir_with_mafft_results)
-idxs = list(
-    range(len(fastanames))
-)  # указать индексы (номер по порядку) входных fasta-файлов для проверки
-
-
+dir_for_mafft_results = os.path.join("main_pipeline_results",
+    f"mafft_results_{assembly}_{gene}"  # директория для результатов mafft-выравнивания
+)
+fastanames = glob.glob("*_trimmed_best.fasta", root_dir=dir_for_mafft_results)
 fastanames = [fastanames[i] for i in idxs]
 logging.basicConfig(
     filename=log_file,
@@ -43,7 +37,7 @@ len_lower_limit = 1450 if gene == "COI" else 2200
 len_upper_limit = 1700 if gene == "COI" else 2300
 
 for fasta in fastanames:
-    file = os.path.join(dir_with_mafft_results, fasta)
+    file = os.path.join(dir_for_mafft_results, fasta)
     name = os.path.basename(fasta).split("_trimmed_best.fasta")[0]
 
     with open(file, "r") as f:

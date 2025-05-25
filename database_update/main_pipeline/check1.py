@@ -1,20 +1,17 @@
 import glob
 import os, os.path
 from Bio import SeqIO
+from config import gene, idxs, assembly
 
-dir_for_mafft_results = (
-    "mafft_results_COI"  # указать директорию для результатов mafft-выравнивания
+os.makedirs(os.path.join(
+    "main_pipeline_results", "top1_check"), exist_ok=True)
+table_path = os.path.join("main_pipeline_results",
+    "top1_check", f"seqs_len_exceptions_{assembly}_{gene}.txt"
+)  # файл для результатов проверки
+dir_for_mafft_results = os.path.join("main_pipeline_results",
+    f"mafft_results_{assembly}_{gene}"  # директория для результатов mafft-выравнивания
 )
-os.makedirs("top1_check", exist_ok=True)
-table_path = os.path.join(
-    "top1_check", "seqs_len_test.txt"
-)  # указать файл для результатов проверки
-gene = "COI"  # указать ген для поиска (COI или 18S)
 fastanames = glob.glob("*_trimmed_best.fasta", root_dir=dir_for_mafft_results)
-idxs = list(
-    range(len(fastanames))
-)  # указать индексы (номер по порядку) входных fasta-файлов для проверки
-
 fastanames = [fastanames[i] for i in idxs]
 
 if not os.path.exists(table_path):

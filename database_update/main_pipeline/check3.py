@@ -1,25 +1,24 @@
 from Bio.Align import PairwiseAligner
 import pandas as pd
 import os, os.path
-from seqs_process import (
+from modules.seqs_process import (
     collect_trimmed_seqs,
     load_sequences,
     align_and_score,
     align_wo_gaps,
     save_alignment_text,
 )
+from config import gene, dir_final_fasta
 
-dir_with_mafft_results_rnaspades = os.path.join(
-    "..", "..", "rnaspades_reassemblies", "rnaspades_reassemblies", "mafft_results_18S"
-)  # указать директорию с готовыми fasta-файлами rnaspades
-dir_with_mafft_results_trinity = (
-    "mafft_results_18S"  # указать директорию с готовыми fasta-файлами trinity
+dir_with_mafft_results_rnaspades = os.path.join("main_pipeline_results",
+    f"mafft_results_rnaspades_{gene}"
+)  # директория с готовыми fasta-файлами rnaspades
+dir_with_mafft_results_trinity = os.path.join("main_pipeline_results",
+    f"mafft_results_trinity_{gene}"  # директория с готовыми fasta-файлами trinity
 )
-dir_final_fasta = "final_seqs"  # указать директорию для сохранения fasta-файла со последовательностями для всех видов
-gene = "18S"  # указать ген (COI или 18S)
-dir_results = f"comparison_{gene}"  # указать директорию для сохранения результатов выравнивания последовательностей из разных сборок
+dir_results = os.path.join("main_pipeline_results",f"comparison_{gene}")  # директория для сохранения результатов выравнивания последовательностей из разных сборок
 
-
+os.makedirs(dir_final_fasta, exist_ok=True)
 fasta_rnaspades = collect_trimmed_seqs(
     dir_with_mafft_results_rnaspades, "rnaspades", gene, dir_final_fasta
 )
@@ -27,7 +26,7 @@ fasta_trinity = collect_trimmed_seqs(
     dir_with_mafft_results_trinity, "trinity", gene, dir_final_fasta
 )
 os.makedirs(dir_results, exist_ok=True)
-os.makedirs(dir_final_fasta, exist_ok=True)
+
 seqs_rnaspades = load_sequences(fasta_rnaspades)
 seqs_trinity = load_sequences(fasta_trinity)
 aligner = PairwiseAligner()
@@ -101,4 +100,4 @@ for seq_id in ids_unique_trinity:
 
 df = pd.DataFrame(results)
 df = df.sort_values("Sequence_ID", ignore_index=True)
-df.to_csv(f"comparison_summary_{gene}.txt", sep="\t", index=False)
+df.to_csv(os.path.join("main_pipeline_results", f"comparison_summary_{gene}.txt"), sep="\t", index=False)
