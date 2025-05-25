@@ -1,0 +1,4 @@
+Name                                    Seq_ID                        Type           Subject_ID          Organism                                E-value   Identity  Align_len 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sluginella_kietlinskii_T285             TRINITY_DN1934_c0_g1_i3       	Best_Identity  	PV474408.1          	Ommatogammarus flavus isolate BG_24_Of_1	0.0e+00   	84.78%    	887       
+Sluginella_kietlinskii_T285             TRINITY_DN1934_c0_g1_i3       	Best_Evalue    	KX341965.1          	Garjajewia cabanisii mitochondrion      	0.0e+00   	84.39%    	1512      

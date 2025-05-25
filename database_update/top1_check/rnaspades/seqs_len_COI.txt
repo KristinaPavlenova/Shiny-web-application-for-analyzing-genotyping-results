@@ -1,0 +1,12 @@
+Brachyuropus_grewingkii_rnaspades       	_R_NODE_22_length_14386_cov_19271.417870_g7_i9    	1680      	1680      	True
+Caprella_sp_rnaspades                   	NODE_6920_length_2165_cov_1455.718870_g3745_i0    	1626      	1106      	True
+Eulimnogammarus_sp._gam2quest_rnaspades 	NODE_2643_length_4669_cov_13692.467316_g13_i13    	1534      	1502      	True
+Gammarus_minus_rnaspades                	NODE_218_length_12133_cov_8426.409377_g189_i0     	1534      	1437      	True
+Gammarus_pisinnus_rnaspades             	NODE_519551_length_1496_cov_145.654836            	1538      	1496      	True
+Hyalella_azteca_rnaspades               	_R_NODE_24_length_10307_cov_25383.158423_g16_i0   	1534      	1531      	True
+Hyalellopsis_stebbingi_rnaspades        	_R_NODE_377_length_6752_cov_27536.086976_g13_i11  	1535      	1514      	True
+Macropereiopus_parvus_rnaspades         	NODE_7495_length_2634_cov_25217.484720_g74_i30    	1540      	1540      	True
+Ommatogammarus_albinus_rnaspades        	NODE_1390_length_6715_cov_11694.413141_g3_i27     	1785      	1785      	False
+Pallasea_cancelloides_rnaspades         	_R_NODE_1966_length_2572_cov_8185.120095_g136_i7  	1541      	1480      	True
+Parapallasea_borowskii_rnaspades        	NODE_3888_length_3260_cov_26593.548116_g2639_i0   	3036      	3035      	False
+Parapallasea_wosnessenskii_rnaspades    	_R_NODE_6599_length_2743_cov_31805.806978_g7_i24  	1549      	1520      	True

@@ -1,0 +1,138 @@
+Name                                    Seq_ID                        Type           Subject_ID          Organism                                E-value   Identity  Align_len 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acanthogammarus_godlewskii_T285         _R_TRINITY_DN65_c0_g2_i1      Best_Identity  JN393755.1          Acanthogammarus cf. maculosus MED-2011 h0.0e+00   99.66%    585       
+Acanthogammarus_godlewskii_T285         _R_TRINITY_DN65_c0_g2_i1      Best_Evalue    KX341962.1          Acanthogammarus victorii mitochondrion  0.0e+00   81.51%    1536      
+Asprogammarus_rhodophthalmus_T285       _R_TRINITY_DN91_c0_g1_i15     Best_Identity  FJ756299.1          Asprogammarus seidlitzii voucher ASEI1 c0.0e+00   89.36%    592       
+Asprogammarus_rhodophthalmus_T285       _R_TRINITY_DN91_c0_g1_i15     Best_Evalue    FJ756299.1          Asprogammarus seidlitzii voucher ASEI1 c0.0e+00   89.36%    592       
+Baikalogammarus_pullus_T285             TRINITY_DN4772_c0_g1_i4       Best_Identity  BK059231.1          TPA_asm: Baikalogammarus pullus isolate 0.0e+00   100.0%    1534      
+Baikalogammarus_pullus_T285             TRINITY_DN4772_c0_g1_i4       Best_Evalue    BK059231.1          TPA_asm: Baikalogammarus pullus isolate 0.0e+00   100.0%    1534      
+Boeckaxelia_carpenterii_T285            _R_TRINITY_DN276_c0_g2_i1     Best_Identity  AY926661.1          Eulimnogammarus cruentus cytochrome oxid2.0e-119  83.91%    466       
+Boeckaxelia_carpenterii_T285            _R_TRINITY_DN276_c0_g2_i1     Best_Evalue    OM828521.1          Gammarus lacustris voucher IZCASIA1347 c0.0e+00   78.9%     1242      
+Boeckaxelia_potanini_T285               _R_TRINITY_DN477_c0_g1_i1     Best_Identity  JN393846.1          Brachyuropus grewingkii cytochrome oxida2.0e-169  85.59%    583       
+Boeckaxelia_potanini_T285               _R_TRINITY_DN477_c0_g1_i1     Best_Evalue    NC_026309.1         Brachyuropus grewingkii mitochondrion, c0.0e+00   83.17%    1533      
+Brachyuropus_grewingkii_T285            _R_TRINITY_DN1052_c0_g1_i3    Best_Identity  FJ756300.1          Brachyuropus grewingkii voucher BGRE14 c0.0e+00   100.0%    627       
+Brachyuropus_grewingkii_T285            _R_TRINITY_DN1052_c0_g1_i3    Best_Evalue    NC_026309.1         Brachyuropus grewingkii mitochondrion, c0.0e+00   99.74%    1534      
+Brandtia_latissima_T285                 _R_TRINITY_DN94_c0_g2_i4      Best_Identity  FJ756302.1          Brandtia latissima lata voucher BLATA66 0.0e+00   95.85%    626       
+Brandtia_latissima_T285                 _R_TRINITY_DN94_c0_g2_i4      Best_Evalue    KX341965.1          Garjajewia cabanisii mitochondrion      0.0e+00   79.15%    1525      
+Carinurus_bicarinatus_T285              TRINITY_DN7859_c0_g1_i1       Best_Identity  BK059232.1          TPA_asm: Echiuropus macronychus isolate 0.0e+00   84.45%    1524      
+Carinurus_bicarinatus_T285              TRINITY_DN7859_c0_g1_i1       Best_Evalue    BK059232.1          TPA_asm: Echiuropus macronychus isolate 0.0e+00   84.45%    1524      
+Cornugammarus_maximus_T285              TRINITY_DN251_c0_g2_i4        Best_Identity  FJ756304.1          Cornugammarus maximus voucher CMAX4 cyto0.0e+00   98.88%    624       
+Cornugammarus_maximus_T285              TRINITY_DN251_c0_g2_i4        Best_Evalue    NC_026309.1         Brachyuropus grewingkii mitochondrion, c0.0e+00   84.07%    1532      
+Crypturopus_inflatus_T285               _R_TRINITY_DN708_c0_g1_i2     Best_Identity  BK059230.1          TPA_asm: Crypturopus inflatus isolate CI0.0e+00   100.0%    1534      
+Crypturopus_inflatus_T285               _R_TRINITY_DN708_c0_g1_i2     Best_Evalue    BK059230.1          TPA_asm: Crypturopus inflatus isolate CI0.0e+00   100.0%    1534      
+Dorogostaiskia_parasitica_T285          TRINITY_DN358_c0_g1_i4        Best_Identity  FJ756307.1          Dorogostaiskia parasitica voucher DPAR450.0e+00   99.84%    627       
+Dorogostaiskia_parasitica_T285          TRINITY_DN358_c0_g1_i4        Best_Evalue    BK059232.1          TPA_asm: Echiuropus macronychus isolate 0.0e+00   80.39%    1530      
+Echiuropus_macronychus_T285             TRINITY_DN2_c0_g1_i2          Best_Identity  BK059232.1          TPA_asm: Echiuropus macronychus isolate 0.0e+00   100.0%    1534      
+Echiuropus_macronychus_T285             TRINITY_DN2_c0_g1_i2          Best_Evalue    BK059232.1          TPA_asm: Echiuropus macronychus isolate 0.0e+00   100.0%    1534      
+Eucarinogammarus_wagii_T285             TRINITY_DN20_c0_g1_i1         Best_Identity  MN148349.1          Eucarinogammarus wagii isolate 2-2 cytoc0.0e+00   98.72%    701       
+Eucarinogammarus_wagii_T285             TRINITY_DN20_c0_g1_i1         Best_Evalue    NC_025564.1         Eulimnogammarus vittatus mitochondrion, 0.0e+00   83.29%    1526      
+Eulimnogammarus_cruentus_2_T285         TRINITY_DN177_c1_g1_i1        Best_Identity  MN148351.1          Eulimnogammarus cruentus isolate 5-9 cyt0.0e+00   98.62%    580       
+Eulimnogammarus_cruentus_2_T285         TRINITY_DN177_c1_g1_i1        Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   86.35%    1524      
+Eulimnogammarus_cruentus_T285           _R_TRINITY_DN3661_c0_g1_i1    Best_Identity  MN148351.1          Eulimnogammarus cruentus isolate 5-9 cyt0.0e+00   98.97%    580       
+Eulimnogammarus_cruentus_T285           _R_TRINITY_DN3661_c0_g1_i1    Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   86.47%    1523      
+Eulimnogammarus_cyaneus_T285            TRINITY_DN1663_c0_g1_i1       Best_Identity  MK887598.1          Eulimnogammarus cyaneus voucher Ecy_Bols0.0e+00   100.0%    631       
+Eulimnogammarus_cyaneus_T285            TRINITY_DN1663_c0_g1_i1       Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   98.24%    1534      
+Eulimnogammarus_czerskii_T285           TRINITY_DN9417_c0_g1_i1       Best_Identity  OR394359.1          Eulimnogammarus verrucosus voucher IBISU0.0e+00   85.29%    884       
+Eulimnogammarus_czerskii_T285           TRINITY_DN9417_c0_g1_i1       Best_Evalue    NC_023104.1         Eulimnogammarus verrucosus mitochondrion0.0e+00   84.59%    1531      
+Eulimnogammarus_marituji_T285           _R_TRINITY_DN1577_c0_g1_i4    Best_Identity  OR394382.1          Eulimnogammarus verrucosus voucher IBISU0.0e+00   85.61%    813       
+Eulimnogammarus_marituji_T285           _R_TRINITY_DN1577_c0_g1_i4    Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   85.18%    1532      
+Eulimnogammarus_messerschmidtii_T285    _R_TRINITY_DN14112_c0_g1_i3   Best_Identity  NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   86.93%    1530      
+Eulimnogammarus_messerschmidtii_T285    _R_TRINITY_DN14112_c0_g1_i3   Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   86.93%    1530      
+Eulimnogammarus_similis_T285            TRINITY_DN1825_c1_g1_i1       Best_Identity  NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   86.6%     1522      
+Eulimnogammarus_similis_T285            TRINITY_DN1825_c1_g1_i1       Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   86.6%     1522      
+Eulimnogammarus_sp._gam16.4_T285        _R_TRINITY_DN3143_c0_g1_i1    Best_Identity  KX341965.1          Garjajewia cabanisii mitochondrion      0.0e+00   83.16%    1532      
+Eulimnogammarus_sp._gam16.4_T285        _R_TRINITY_DN3143_c0_g1_i1    Best_Evalue    KX341965.1          Garjajewia cabanisii mitochondrion      0.0e+00   83.16%    1532      
+Eulimnogammarus_sp._gam2quest_T285      _R_TRINITY_DN531_c0_g1_i4     Best_Identity  AY926663.1          Eulimnogammarus maacki cytochrome oxidas0.0e+00   99.56%    450       
+Eulimnogammarus_sp._gam2quest_T285      _R_TRINITY_DN531_c0_g1_i4     Best_Evalue    NC_025564.1         Eulimnogammarus vittatus mitochondrion, 0.0e+00   84.32%    1531      
+Eulimnogammarus_testaceus_T285          _R_TRINITY_DN5435_c0_g1_i1    Best_Identity  OR394322.1          Eulimnogammarus verrucosus voucher IBISU0.0e+00   85.04%    822       
+Eulimnogammarus_testaceus_T285          _R_TRINITY_DN5435_c0_g1_i1    Best_Evalue    KX341965.1          Garjajewia cabanisii mitochondrion      0.0e+00   83.85%    1523      
+Eulimnogammarus_ussolzewii_T285         TRINITY_DN3404_c2_g3_i1       Best_Identity  FJ756330.1          Garjajewia sarsi voucher GSAR3 cytochrom2.0e-159  83.55%    620       
+Eulimnogammarus_ussolzewii_T285         TRINITY_DN3404_c2_g3_i1       Best_Evalue    KX341965.1          Garjajewia cabanisii mitochondrion      0.0e+00   81.43%    1524      
+Eulimnogammarus_verrucosus_T285         TRINITY_DN529_c0_g1_i2        Best_Identity  MK887394.1          Eulimnogammarus verrucosus voucher Eve_B0.0e+00   99.83%    604       
+Eulimnogammarus_verrucosus_T285         TRINITY_DN529_c0_g1_i2        Best_Evalue    NC_023104.1         Eulimnogammarus verrucosus mitochondrion0.0e+00   99.61%    1536      
+Eulimnogammarus_viridulus_T285          TRINITY_DN93_c0_g3_i2         Best_Identity  MK887742.1          Eulimnogammarus vittatus voucher Evi_Lis0.0e+00   99.84%    640       
+Eulimnogammarus_viridulus_T285          TRINITY_DN93_c0_g3_i2         Best_Evalue    NC_025564.1         Eulimnogammarus vittatus mitochondrion, 0.0e+00   90.67%    1532      
+Eulimnogammarus_vittatus_T285           TRINITY_DN7079_c0_g1_i1       Best_Identity  MK887742.1          Eulimnogammarus vittatus voucher Evi_Lis0.0e+00   100.0%    640       
+Eulimnogammarus_vittatus_T285           TRINITY_DN7079_c0_g1_i1       Best_Evalue    NC_025564.1         Eulimnogammarus vittatus mitochondrion, 0.0e+00   90.6%     1532      
+Gammarus_lacustris_T285                 _R_TRINITY_DN2922_c0_g1_i1    Best_Identity  OM828370.1          Gammarus lacustris voucher IZCASIA1358 c0.0e+00   99.68%    1258      
+Gammarus_lacustris_T285                 _R_TRINITY_DN2922_c0_g1_i1    Best_Evalue    NC_044469.1         Gammarus lacustris mitochondrion, comple0.0e+00   98.3%     1533      
+Gammarus_minus_T2100                    TRINITY_DN9304_c0_g1_i5       Best_Identity  EU285858.1          Gammarus minus clone WS4_1 cytochrome c 0.0e+00   100.0%    631       
+Gammarus_minus_T2100                    TRINITY_DN9304_c0_g1_i5       Best_Evalue    PV534570.1          Niphargus dolenianensis isolate FS_24.010.0e+00   81.54%    1441      
+Gammarus_pisinnus_trinity285            TRINITY_DN49_c0_g1_i1         Best_Identity  NC_044410.1         Gammarus pisinnus mitochondrion, complet0.0e+00   100.0%    1534      
+Gammarus_pisinnus_trinity285            TRINITY_DN49_c0_g1_i1         Best_Evalue    NC_044410.1         Gammarus pisinnus mitochondrion, complet0.0e+00   100.0%    1534      
+Garjajewia_dershawini_T285              _R_TRINITY_DN1387_c0_g1_i3    Best_Identity  KX341965.1          Garjajewia cabanisii mitochondrion      0.0e+00   89.77%    1534      
+Garjajewia_dershawini_T285              _R_TRINITY_DN1387_c0_g1_i3    Best_Evalue    KX341965.1          Garjajewia cabanisii mitochondrion      0.0e+00   89.77%    1534      
+Gmelinoides_fasciatus_T285              _R_TRINITY_DN131_c0_g3_i3     Best_Identity  NC_033361.1         Gmelinoides fasciatus mitochondrion, com0.0e+00   100.0%    1532      
+Gmelinoides_fasciatus_T285              _R_TRINITY_DN131_c0_g3_i3     Best_Evalue    NC_033361.1         Gmelinoides fasciatus mitochondrion, com0.0e+00   100.0%    1532      
+Heterogammarus_sophianosii_T285         _R_TRINITY_DN10_c0_g1_i3      Best_Identity  MN148349.1          Eucarinogammarus wagii isolate 2-2 cytoc0.0e+00   88.42%    708       
+Heterogammarus_sophianosii_T285         _R_TRINITY_DN10_c0_g1_i3      Best_Evalue    NC_025564.1         Eulimnogammarus vittatus mitochondrion, 0.0e+00   83.43%    1527      
+Homalogammarus_brandtii_T285            TRINITY_DN209_c0_g1_i4        Best_Identity  NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   81.04%    1535      
+Homalogammarus_brandtii_T285            TRINITY_DN209_c0_g1_i4        Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   81.04%    1535      
+Hyalella_azteca_trinity285              TRINITY_DN8749_c0_g1_i1       Best_Identity  JX446308.1          Hyalella azteca haplotype 2 cytochrome c0.0e+00   100.0%    1534      
+Hyalella_azteca_trinity285              TRINITY_DN8749_c0_g1_i1       Best_Evalue    JX446308.1          Hyalella azteca haplotype 2 cytochrome c0.0e+00   100.0%    1534      
+Hyalellopsis_carinata_T285              _R_TRINITY_DN177_c0_g1_i1     Best_Identity  MN148358.1          Hyalellopsis carinata isolate 32-3 cytoc0.0e+00   98.87%    708       
+Hyalellopsis_carinata_T285              _R_TRINITY_DN177_c0_g1_i1     Best_Evalue    MN148358.1          Hyalellopsis carinata isolate 32-3 cytoc0.0e+00   98.87%    708       
+Hyalellopsis_costata_T285               _R_TRINITY_DN8075_c0_g1_i1    Best_Identity  OP034008.1          Embata parasitica voucher BA012_EP01 cyt0.0e+00   96.38%    608       
+Hyalellopsis_costata_T285               _R_TRINITY_DN8075_c0_g1_i1    Best_Evalue    JX184002.1          Habrotrocha constricta cytochrome c oxid0.0e+00   81.49%    1534      
+Hyalellopsis_grisea_T285                TRINITY_DN335_c0_g1_i5        Best_Identity  MN148352.1          Echiuropus macronychus isolate 9-9 cytoc0.0e+00   83.36%    709       
+Hyalellopsis_grisea_T285                TRINITY_DN335_c0_g1_i5        Best_Evalue    BK059232.1          TPA_asm: Echiuropus macronychus isolate 0.0e+00   82.21%    1529      
+Hyalellopsis_setosa_T285                _R_TRINITY_DN20_c0_g1_i5      Best_Identity  OR394293.1          Eulimnogammarus verrucosus voucher IBISU4.0e-147  78.8%     797       
+Hyalellopsis_setosa_T285                _R_TRINITY_DN20_c0_g1_i5      Best_Evalue    KX341962.1          Acanthogammarus victorii mitochondrion  0.0e+00   76.32%    1512      
+Hyalellopsis_stebbingi_T285             TRINITY_DN859_c0_g1_i7        Best_Identity  OR394309.1          Eulimnogammarus verrucosus voucher IBISU8.0e-164  80.57%    772       
+Hyalellopsis_stebbingi_T285             TRINITY_DN859_c0_g1_i7        Best_Evalue    NC_017760.1         Gammarus duebeni mitochondrion, complete0.0e+00   77.17%    1520      
+Linevichella_vortex_T285                _R_TRINITY_DN16545_c1_g1_i1   Best_Identity  KX341967.1          Linevichella vortex mitochondrion, parti0.0e+00   99.77%    1285      
+Linevichella_vortex_T285                _R_TRINITY_DN16545_c1_g1_i1   Best_Evalue    KX341967.1          Linevichella vortex mitochondrion, parti0.0e+00   99.77%    1285      
+Macrohectopus_branickii_T285            _R_TRINITY_DN12528_c0_g3_i2   Best_Identity  NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   87.07%    1516      
+Macrohectopus_branickii_T285            _R_TRINITY_DN12528_c0_g3_i2   Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   87.07%    1516      
+Macropereiopus_parvus_T285              TRINITY_DN2826_c0_g1_i6       Best_Identity  MN148356.1          Macropereiopus parvus isolate 24-7 cytoc0.0e+00   99.42%    695       
+Macropereiopus_parvus_T285              TRINITY_DN2826_c0_g1_i6       Best_Evalue    BK059232.1          TPA_asm: Echiuropus macronychus isolate 0.0e+00   81.84%    1525      
+Macropereiopus_wagneri_T285             _R_TRINITY_DN262_c0_g1_i2     Best_Identity  NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   84.24%    1536      
+Macropereiopus_wagneri_T285             _R_TRINITY_DN262_c0_g1_i2     Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   84.24%    1536      
+Micruropus_glaber_T285                  _R_TRINITY_DN7569_c0_g1_i1    Best_Identity  AY926682.1          Micruropus glaber cytochrome oxidase sub0.0e+00   91.79%    694       
+Micruropus_glaber_T285                  _R_TRINITY_DN7569_c0_g1_i1    Best_Evalue    AY926682.1          Micruropus glaber cytochrome oxidase sub0.0e+00   91.79%    694       
+Micruropus_parvulus_T285                TRINITY_DN286_c0_g5_i1        Best_Identity  OM828464.1          Gammarus jaspidus voucher IZCASIA1927 cy1.0e-167  78.77%    909       
+Micruropus_parvulus_T285                TRINITY_DN286_c0_g5_i1        Best_Evalue    OM828462.1          Gammarus lacustris voucher IZCASIA1925 c0.0e+00   78.14%    1217      
+Micruropus_wahlii_T285                  _R_TRINITY_DN8_c0_g1_i4       Best_Identity  AY926683.1          Micruropus wahli cytochrome oxidase subu0.0e+00   100.0%    600       
+Micruropus_wahlii_T285                  _R_TRINITY_DN8_c0_g1_i4       Best_Evalue    MN148354.1          Micruropus wahlii isolate 12-1 cytochrom0.0e+00   98.57%    701       
+Odontogammarus_calcaratus_T285          _R_TRINITY_DN1782_c0_g1_i4    Best_Identity  FJ756341.1          Odontogammarus calcaratus voucher OCAL200.0e+00   92.82%    627       
+Odontogammarus_calcaratus_T285          _R_TRINITY_DN1782_c0_g1_i4    Best_Evalue    NC_026309.1         Brachyuropus grewingkii mitochondrion, c0.0e+00   83.0%     1535      
+Ommatogammarus_albinus_T285             TRINITY_DN2055_c0_g1_i1       Best_Identity  OR394382.1          Eulimnogammarus verrucosus voucher IBISU0.0e+00   85.61%    813       
+Ommatogammarus_albinus_T285             TRINITY_DN2055_c0_g1_i1       Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   85.25%    1532      
+Ommatogammarus_flavus_T285              _R_TRINITY_DN16_c2_g1_i2      Best_Identity  PV474353.1          Ommatogammarus flavus isolate BK_19_Of_20.0e+00   100.0%    889       
+Ommatogammarus_flavus_T285              _R_TRINITY_DN16_c2_g1_i2      Best_Evalue    PV474353.1          Ommatogammarus flavus isolate BK_19_Of_20.0e+00   100.0%    889       
+Oxyacanthus_curtus_T285                 TRINITY_DN1_c0_g1_i4          Best_Identity  JN393847.1          Oxyacanthus flavus cytochrome oxidase su0.0e+00   99.66%    585       
+Oxyacanthus_curtus_T285                 TRINITY_DN1_c0_g1_i4          Best_Evalue    NC_023104.1         Eulimnogammarus verrucosus mitochondrion0.0e+00   80.85%    1504      
+Oxyacanthus_flavus_T285                 _R_TRINITY_DN594_c0_g1_i9     Best_Identity  AY061800.1          Oxyacanthus flavus cytochrome oxidase su0.0e+00   99.09%    552       
+Oxyacanthus_flavus_T285                 _R_TRINITY_DN594_c0_g1_i9     Best_Evalue    NC_023104.1         Eulimnogammarus verrucosus mitochondrion0.0e+00   80.92%    1504      
+Oxyacanthus_sowinskii_T285              TRINITY_DN1808_c0_g1_i1       Best_Identity  OR394266.1          Eulimnogammarus verrucosus voucher IBISU0.0e+00   84.49%    806       
+Oxyacanthus_sowinskii_T285              TRINITY_DN1808_c0_g1_i1       Best_Evalue    KX341965.1          Garjajewia cabanisii mitochondrion      0.0e+00   81.81%    1534      
+Pachyschesis_branchialis_2_T285         TRINITY_DN40_c0_g1_i4         Best_Identity  MN148359.1          Pachyschesis branchialis isolate 35-6 cy0.0e+00   98.44%    705       
+Pachyschesis_branchialis_2_T285         TRINITY_DN40_c0_g1_i4         Best_Evalue    MN148359.1          Pachyschesis branchialis isolate 35-6 cy0.0e+00   98.44%    705       
+Pachyschesis_branchialis_T285           _R_TRINITY_DN387_c0_g1_i3     Best_Identity  MN148359.1          Pachyschesis branchialis isolate 35-6 cy0.0e+00   87.68%    706       
+Pachyschesis_branchialis_T285           _R_TRINITY_DN387_c0_g1_i3     Best_Evalue    BK059232.1          TPA_asm: Echiuropus macronychus isolate 0.0e+00   80.29%    1527      
+Palicarinus_puzyllii_T285               TRINITY_DN61680_c0_g1_i1      Best_Identity  AY926688.1          Pallasea grubei cytochrome oxidase subun0.0e+00   92.17%    498       
+Palicarinus_puzyllii_T285               TRINITY_DN61680_c0_g1_i1      Best_Evalue    NC_033362.1         Pallaseopsis kessleri mitochondrion, com0.0e+00   83.36%    1526      
+Pallasea_cancelloides_2_T285            TRINITY_DN3690_c0_g5_i2       Best_Identity  MG936047.1          Pallaseopsis kessleri voucher 11NJBaikal0.0e+00   97.13%    453       
+Pallasea_cancelloides_2_T285            TRINITY_DN3690_c0_g5_i2       Best_Evalue    NC_026309.1         Brachyuropus grewingkii mitochondrion, c0.0e+00   78.02%    1529      
+Pallasea_cancelloides_T285              TRINITY_DN16_c0_g2_i2         Best_Identity  MG936047.1          Pallaseopsis kessleri voucher 11NJBaikal0.0e+00   96.92%    455       
+Pallasea_cancelloides_T285              TRINITY_DN16_c0_g2_i2         Best_Evalue    NC_026309.1         Brachyuropus grewingkii mitochondrion, c0.0e+00   78.08%    1528      
+Pallasea_cancellus_T285                 _R_TRINITY_DN3196_c0_g1_i1    Best_Identity  FJ756343.1          Pallasea cancellus voucher PCAN9 cytochr0.0e+00   99.52%    627       
+Pallasea_cancellus_T285                 _R_TRINITY_DN3196_c0_g1_i1    Best_Evalue    NC_026309.1         Brachyuropus grewingkii mitochondrion, c0.0e+00   81.36%    1529      
+Pallasea_grubei_T285                    TRINITY_DN56_c0_g1_i1         Best_Identity  AY926688.1          Pallasea grubei cytochrome oxidase subun0.0e+00   92.17%    498       
+Pallasea_grubei_T285                    TRINITY_DN56_c0_g1_i1         Best_Evalue    NC_033362.1         Pallaseopsis kessleri mitochondrion, com0.0e+00   83.36%    1526      
+Pallasea_sp._gam7.3_T285                _R_TRINITY_DN442_c0_g1_i5     Best_Identity  NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   81.04%    1535      
+Pallasea_sp._gam7.3_T285                _R_TRINITY_DN442_c0_g1_i5     Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   81.04%    1535      
+Pallaseopsis_kessleri_T285              TRINITY_DN670_c0_g1_i5        Best_Identity  GQ919202.1          Babr nigromaculatus isolate A60 cytochro0.0e+00   98.56%    627       
+Pallaseopsis_kessleri_T285              TRINITY_DN670_c0_g1_i5        Best_Evalue    GQ919202.1          Babr nigromaculatus isolate A60 cytochro0.0e+00   98.56%    627       
+Pandorites_podoceroides_T285            _R_TRINITY_DN4300_c0_g1_i1    Best_Identity  BK059235.1          TPA_asm: Pandorites podoceroides isolate0.0e+00   100.0%    1534      
+Pandorites_podoceroides_T285            _R_TRINITY_DN4300_c0_g1_i1    Best_Evalue    BK059235.1          TPA_asm: Pandorites podoceroides isolate0.0e+00   100.0%    1534      
+Parapallasea_borowskii_T285             _R_TRINITY_DN34_c0_g1_i4      Best_Identity  PV474313.1          Ommatogammarus albinus isolate Pos_4_Oa_0.0e+00   85.25%    861       
+Parapallasea_borowskii_T285             _R_TRINITY_DN34_c0_g1_i4      Best_Evalue    NC_033360.1         Eulimnogammarus cyaneus mitochondrion, c0.0e+00   84.63%    1529      
+Parapallasea_wosnessenskii_T285         _R_TRINITY_DN5301_c0_g6_i1    Best_Identity  PV474293.1          Ommatogammarus albinus isolate BK_22_Oa_0.0e+00   85.82%    818       
+Parapallasea_wosnessenskii_T285         _R_TRINITY_DN5301_c0_g6_i1    Best_Evalue    KX341965.1          Garjajewia cabanisii mitochondrion      0.0e+00   83.64%    1534      
+Pentagonurus_dawydowi_T285              TRINITY_DN836_c0_g1_i4        Best_Identity  AY926688.1          Pallasea grubei cytochrome oxidase subun0.0e+00   88.73%    550       
+Pentagonurus_dawydowi_T285              TRINITY_DN836_c0_g1_i4        Best_Evalue    NC_033362.1         Pallaseopsis kessleri mitochondrion, com0.0e+00   83.33%    1530      
+Poekilogammarus_pictoides_T285          TRINITY_DN1432_c0_g1_i5       Best_Identity  BK059232.1          TPA_asm: Echiuropus macronychus isolate 0.0e+00   80.55%    1501      
+Poekilogammarus_pictoides_T285          TRINITY_DN1432_c0_g1_i5       Best_Evalue    BK059232.1          TPA_asm: Echiuropus macronychus isolate 0.0e+00   80.55%    1501      
+Sluginella_kietlinskii_T285             TRINITY_DN1934_c0_g1_i3       Best_Identity  PV474408.1          Ommatogammarus flavus isolate BG_24_Of_10.0e+00   84.78%    887       
+Sluginella_kietlinskii_T285             TRINITY_DN1934_c0_g1_i3       Best_Evalue    KX341965.1          Garjajewia cabanisii mitochondrion      0.0e+00   84.39%    1512      

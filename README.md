@@ -74,3 +74,7 @@ Change the search pattern in the conditions that produce popups in lines 286 thr
 Also, this application is located on our server:
 
 http://bioinformatics.isu.ru:3838/speCOIdent/ 
+
+# Database Update:
+
+Supplement the DNA barcode database with COI and 18S gene sequences to further facilitate species identification of the studied amphipods was performed. All details are presented in the directory `./database_update`.

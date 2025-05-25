@@ -1,0 +1,14 @@
+# Basic Python packages
+biopython = 1.79
+pandas = 1.1.5
+
+# Additional dependencies
+numpy = 1.19.5 # Required for Bio.Align
+
+# To work with paths
+pathlib2; python_version ‘3.6.15’
+
+# Bioinformatics tools (must be installed on the system)
+blastn = 2.16.0+
+mafft = v7.525
+trimal = v1.5.rev0

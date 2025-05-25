@@ -1,0 +1,4 @@
+Name                                    Seq_ID                        Type           Subject_ID          Organism                                E-value   Identity  Align_len 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sluginella_kietlinskii_rnaspades        NODE_46_length_5127_cov_25327.130118_g30_i0	Best_Identity  	PV474408.1          	Ommatogammarus flavus isolate BG_24_Of_1	0.0e+00   	84.68%    	888       
+Sluginella_kietlinskii_rnaspades        NODE_46_length_5127_cov_25327.130118_g30_i0	Best_Evalue    	KX341965.1          	Garjajewia cabanisii mitochondrion      	0.0e+00   	84.34%    	1513      

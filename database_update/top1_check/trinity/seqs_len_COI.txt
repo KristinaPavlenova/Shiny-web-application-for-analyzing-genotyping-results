@@ -1,0 +1,12 @@
+Baikalogammarus_pullus_T285             	_R_TRINITY_DN19721_c0_g3_i1                       	1534      	1484      	True
+Eulimnogammarus_violaceus_T285          	TRINITY_DN2290_c1_g2_i1                           	1534      	1523      	True
+Gammarus_lacustris_T285                 	_R_TRINITY_DN25865_c0_g1_i1                       	1534      	1494      	True
+Gammarus_pisinnus_trinity285            	TRINITY_DN64_c1_g1_i2                             	1537      	1521      	True
+Gmelinoides_fasciatus_T285              	TRINITY_DN17430_c0_g1_i1                          	1534      	1511      	True
+Heterogammarus_sophianosii_T285         	TRINITY_DN2920_c0_g1_i4                           	1534      	1505      	True
+Macrohectopus_branickii_T285            	_R_TRINITY_DN12528_c0_g3_i2                       	1534      	1520      	True
+Micruropus_glaber_T285                  	_R_TRINITY_DN24442_c1_g1_i2                       	1534      	1520      	True
+Oxyacanthus_flavus_T285                 	TRINITY_DN23718_c1_g1_i1                          	1534      	1520      	True
+Palicarinus_puzyllii_T285               	TRINITY_DN61680_c0_g1_i1                          	1534      	1533      	True
+Pallasea_cancelloides_2_T285            	_R_TRINITY_DN14895_c0_g1_i1                       	1534      	1492      	True
+Parapallasea_borowskii_T285             	TRINITY_DN13864_c0_g1_i1                          	1534      	1520      	True

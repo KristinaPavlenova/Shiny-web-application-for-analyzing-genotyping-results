@@ -1,0 +1,144 @@
+Name                                    Seq_ID                        Type           Subject_ID          Organism                                E-value   Identity  Align_len 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acanthogammarus_godlewskii_rnaspades    _R_NODE_876_length_4782_cov_778.812170_g617_i0Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.67%    2124      
+Acanthogammarus_godlewskii_rnaspades    _R_NODE_876_length_4782_cov_778.812170_g617_i0Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.38%    2265      
+Asprogammarus_rhodophthalmus_rnaspades  _R_NODE_2456_length_4074_cov_14213.865342_g1163_i3Best_Identity  MN005110.1          Asprogammarus sp. VNM-2020 isolate 39.2_0.0e+00   99.76%    2104      
+Asprogammarus_rhodophthalmus_rnaspades  _R_NODE_2456_length_4074_cov_14213.865342_g1163_i3Best_Evalue    MN005112.1          Crypturopus inflatus isolate 9.6_18S sma0.0e+00   99.67%    2119      
+Baikalogammarus_pullus_rnaspades        _R_NODE_18_length_8896_cov_23975.894993_g1_i2Best_Identity  MW729671.1          Gammarus brevipodus voucher GALGL4 small0.0e+00   98.45%    2195      
+Baikalogammarus_pullus_rnaspades        _R_NODE_18_length_8896_cov_23975.894993_g1_i2Best_Evalue    AF356545.1          Gammarus duebeni 18S small subunit ribos0.0e+00   97.88%    2266      
+Boeckaxelia_carpenterii_rnaspades       _R_NODE_3190_length_3551_cov_5624.219303_g357_i11Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.63%    2134      
+Boeckaxelia_carpenterii_rnaspades       _R_NODE_3190_length_3551_cov_5624.219303_g357_i11Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.38%    2259      
+Boeckaxelia_potanini_rnaspades          NODE_30_length_8385_cov_5252.249520_g16_i1Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.58%    2134      
+Boeckaxelia_potanini_rnaspades          NODE_30_length_8385_cov_5252.249520_g16_i1Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.34%    2265      
+Brachyuropus_grewingkii_rnaspades       _R_NODE_1871_length_4483_cov_2155.266125_g32_i21Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.63%    2134      
+Brachyuropus_grewingkii_rnaspades       _R_NODE_1871_length_4483_cov_2155.266125_g32_i21Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.38%    2265      
+Brandtia_latissima_rnaspades            _R_NODE_2345_length_2354_cov_410.757050_g1839_i0Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.72%    2122      
+Brandtia_latissima_rnaspades            _R_NODE_2345_length_2354_cov_410.757050_g1839_i0Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.51%    2257      
+Carinurus_bicarinatus_rnaspades         _R_NODE_211_length_6918_cov_1621.824574_g2_i3Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.72%    2132      
+Carinurus_bicarinatus_rnaspades         _R_NODE_211_length_6918_cov_1621.824574_g2_i3Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.47%    2263      
+Cornugammarus_maximus_rnaspades         _R_NODE_101_length_8679_cov_1516.342990_g10_i15Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.72%    2132      
+Cornugammarus_maximus_rnaspades         _R_NODE_101_length_8679_cov_1516.342990_g10_i15Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.47%    2257      
+Crypturopus_inflatus_rnaspades          _R_NODE_620_length_3870_cov_1211.820204_g234_i3Best_Identity  MN005110.1          Asprogammarus sp. VNM-2020 isolate 39.2_0.0e+00   99.95%    2104      
+Crypturopus_inflatus_rnaspades          _R_NODE_620_length_3870_cov_1211.820204_g234_i3Best_Evalue    MN005112.1          Crypturopus inflatus isolate 9.6_18S sma0.0e+00   99.86%    2119      
+Dorogostaiskia_parasitica_rnaspades     _R_NODE_3712_length_2356_cov_571.965323_g1603_i1Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.67%    2122      
+Dorogostaiskia_parasitica_rnaspades     _R_NODE_3712_length_2356_cov_571.965323_g1603_i1Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.47%    2257      
+Echiuropus_macronychus_rnaspades        _R_NODE_1971_length_3744_cov_616.856022_g58_i6Best_Identity  MN005114.1          Echiuropus macronychus isolate 9.9_18S s0.0e+00   99.77%    2130      
+Echiuropus_macronychus_rnaspades        _R_NODE_1971_length_3744_cov_616.856022_g58_i6Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.2%     2264      
+Eogammarus_possjeticus_rnaspades        _R_NODE_272_length_9513_cov_2210.622192_g140_i0Best_Identity  MN622524.1          Eogammarus kygi voucher LYL_RUS013 18S r0.0e+00   97.08%    1883      
+Eogammarus_possjeticus_rnaspades        _R_NODE_272_length_9513_cov_2210.622192_g140_i0Best_Evalue    EF582935.1          Jesogammarus hebeiensis voucher 294 18S 0.0e+00   96.56%    2062      
+Eucarinogammarus_wagii_rnaspades        NODE_4730_length_2293_cov_2474.975490_g2604_i1Best_Identity  MN005101.1          Eucarinogammarus wagii isolate 2.2_18S s0.0e+00   99.72%    2131      
+Eucarinogammarus_wagii_rnaspades        NODE_4730_length_2293_cov_2474.975490_g2604_i1Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.43%    2263      
+Eulimnogammarus_cruentus_2_rnaspades    NODE_335_length_9515_cov_3970.136594_g102_i3Best_Identity  MN005111.1          Eulimnogammarus cruentus isolate 5.9_18S0.0e+00   99.72%    2131      
+Eulimnogammarus_cruentus_2_rnaspades    NODE_335_length_9515_cov_3970.136594_g102_i3Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.47%    2263      
+Eulimnogammarus_cruentus_rnaspades      NODE_85_length_9380_cov_1839.804308_g5_i2Best_Identity  MN005111.1          Eulimnogammarus cruentus isolate 5.9_18S0.0e+00   99.77%    2131      
+Eulimnogammarus_cruentus_rnaspades      NODE_85_length_9380_cov_1839.804308_g5_i2Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.43%    2263      
+Eulimnogammarus_cyaneus_rnaspades       NODE_403_length_6897_cov_13625.946116_g15_i4Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.06%    2132      
+Eulimnogammarus_cyaneus_rnaspades       NODE_403_length_6897_cov_13625.946116_g15_i4Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   98.76%    2263      
+Eulimnogammarus_czerskii_rnaspades      NODE_6429_length_2857_cov_3444.969373_g1157_i11Best_Identity  MN005111.1          Eulimnogammarus cruentus isolate 5.9_18S0.0e+00   99.77%    2131      
+Eulimnogammarus_czerskii_rnaspades      NODE_6429_length_2857_cov_3444.969373_g1157_i11Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.42%    2244      
+Eulimnogammarus_marituji_rnaspades      _R_NODE_126_length_9218_cov_2980.549569_g81_i0Best_Identity  MN005100.1          Eulimnogammarus cyaneus isolate 18.1_18S0.0e+00   99.53%    2131      
+Eulimnogammarus_marituji_rnaspades      _R_NODE_126_length_9218_cov_2980.549569_g81_i0Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.25%    2263      
+Eulimnogammarus_messerschmidtii_rnaspadesNODE_244_length_6662_cov_3393.660517_g31_i1Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.44%    2132      
+Eulimnogammarus_messerschmidtii_rnaspadesNODE_244_length_6662_cov_3393.660517_g31_i1Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.2%     2263      
+Eulimnogammarus_similis_rnaspades       _R_NODE_1066_length_6495_cov_9230.896835_g705_i0Best_Identity  MN005100.1          Eulimnogammarus cyaneus isolate 18.1_18S0.0e+00   99.58%    2131      
+Eulimnogammarus_similis_rnaspades       _R_NODE_1066_length_6495_cov_9230.896835_g705_i0Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.2%     2263      
+Eulimnogammarus_sp._gam16.4_rnaspades   _R_NODE_19_length_6553_cov_7279.738776_g3_i1Best_Identity  MN005100.1          Eulimnogammarus cyaneus isolate 18.1_18S0.0e+00   99.62%    2131      
+Eulimnogammarus_sp._gam16.4_rnaspades   _R_NODE_19_length_6553_cov_7279.738776_g3_i1Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.34%    2263      
+Eulimnogammarus_sp._gam2quest_rnaspades NODE_531_length_7962_cov_2925.261468_g188_i2Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.48%    2132      
+Eulimnogammarus_sp._gam2quest_rnaspades NODE_531_length_7962_cov_2925.261468_g188_i2Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.34%    2263      
+Eulimnogammarus_testaceus_rnaspades     _R_NODE_2907_length_4219_cov_11821.471942_g747_i7Best_Identity  MN005100.1          Eulimnogammarus cyaneus isolate 18.1_18S0.0e+00   99.49%    1975      
+Eulimnogammarus_testaceus_rnaspades     _R_NODE_2907_length_4219_cov_11821.471942_g747_i7Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.2%     2006      
+Eulimnogammarus_verrucosus_rnaspades    _R_NODE_5424_length_3455_cov_4386.269231_g1335_i12Best_Identity  MN005111.1          Eulimnogammarus cruentus isolate 5.9_18S0.0e+00   99.3%     2131      
+Eulimnogammarus_verrucosus_rnaspades    _R_NODE_5424_length_3455_cov_4386.269231_g1335_i12Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.03%    2263      
+Eulimnogammarus_violaceus_rnaspades     _R_NODE_584_length_6711_cov_8962.004803_g41_i2Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.39%    2123      
+Eulimnogammarus_violaceus_rnaspades     _R_NODE_584_length_6711_cov_8962.004803_g41_i2Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.07%    2265      
+Eulimnogammarus_viridulus_rnaspades     _R_NODE_71_length_10996_cov_33498.909747_g42_i1Best_Identity  MN005100.1          Eulimnogammarus cyaneus isolate 18.1_18S0.0e+00   99.2%     2131      
+Eulimnogammarus_viridulus_rnaspades     _R_NODE_71_length_10996_cov_33498.909747_g42_i1Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   98.94%    2263      
+Eulimnogammarus_vittatus_rnaspades      _R_NODE_2778_length_3595_cov_1408.237451_g1893_i0Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.34%    2132      
+Eulimnogammarus_vittatus_rnaspades      _R_NODE_2778_length_3595_cov_1408.237451_g1893_i0Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.12%    2263      
+Gammarus_chevreuxi_rnaspades            NODE_479_length_9075_cov_495.103922_g118_i0Best_Identity  MW729660.1          Gammarus tastiensis (nom. nud.) voucher 0.0e+00   96.11%    2213      
+Gammarus_chevreuxi_rnaspades            NODE_479_length_9075_cov_495.103922_g118_i0Best_Evalue    AF419225.1          Gammarus pulex 18S small subunit ribosom0.0e+00   95.92%    2279      
+Gammarus_fossarum_rnaspades             _R_NODE_417_length_10278_cov_1676.943143_g285_i0Best_Identity  JF966160.1          Gammarus pulex gallicus voucher SLOCHN080.0e+00   99.75%    1965      
+Gammarus_fossarum_rnaspades             _R_NODE_417_length_10278_cov_1676.943143_g285_i0Best_Evalue    AF202982.1          Gammarus pulex 18S ribosomal RNA gene, c0.0e+00   98.62%    2250      
+Gammarus_lacustris_rnaspades            _R_NODE_16_length_8577_cov_613.017237_g9_i0Best_Identity  MW729658.1          Gammarus lacustris voucher GA6355 small 0.0e+00   99.91%    2185      
+Gammarus_lacustris_rnaspades            _R_NODE_16_length_8577_cov_613.017237_g9_i0Best_Evalue    MW729658.1          Gammarus lacustris voucher GA6355 small 0.0e+00   99.91%    2185      
+Gammarus_minus_rnaspades                _R_NODE_834_length_9011_cov_1142.106331_g502_i1Best_Identity  EF582918.1          Gammarus minus voucher 674 18S ribosomal0.0e+00   99.32%    2062      
+Gammarus_minus_rnaspades                _R_NODE_834_length_9011_cov_1142.106331_g502_i1Best_Evalue    AY781422.1          Gammarus oceanicus small subunit ribosom0.0e+00   97.54%    2280      
+Gammarus_pulex_rnaspades                NODE_503_length_10183_cov_1672.514744_g428_i0Best_Identity  EF582923.1          Gammarus pulex voucher 610 18S ribosomal0.0e+00   99.69%    1966      
+Gammarus_pulex_rnaspades                NODE_503_length_10183_cov_1672.514744_g428_i0Best_Evalue    AF419225.1          Gammarus pulex 18S small subunit ribosom0.0e+00   99.42%    2250      
+Gammarus_wautieri_rnaspades             NODE_1287_length_7434_cov_3780.120158_g118_i1Best_Identity  JF966133.1          Gammarus fossarum voucher SLOCHN119 18S 0.0e+00   99.39%    1965      
+Gammarus_wautieri_rnaspades             NODE_1287_length_7434_cov_3780.120158_g118_i1Best_Evalue    AF202982.1          Gammarus pulex 18S ribosomal RNA gene, c0.0e+00   98.53%    2250      
+Garjajewia_dershawini_rnaspades         NODE_280_length_6682_cov_874.788180_g191_i1Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.72%    2122      
+Garjajewia_dershawini_rnaspades         NODE_280_length_6682_cov_874.788180_g191_i1Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.43%    2263      
+Gmelinoides_fasciatus_rnaspades         NODE_1_length_14115_cov_5415.473340_g0_i0Best_Identity  MH001607.1          Gmelinoides fasciatus isolate D1 18S rib0.0e+00   99.95%    2099      
+Gmelinoides_fasciatus_rnaspades         NODE_1_length_14115_cov_5415.473340_g0_i0Best_Evalue    AF419225.1          Gammarus pulex 18S small subunit ribosom0.0e+00   97.91%    2250      
+Heterogammarus_sophianosii_rnaspades    _R_NODE_755_length_7485_cov_2835.134077_g538_i0Best_Identity  MN005111.1          Eulimnogammarus cruentus isolate 5.9_18S0.0e+00   99.58%    2131      
+Heterogammarus_sophianosii_rnaspades    _R_NODE_755_length_7485_cov_2835.134077_g538_i0Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.43%    2263      
+Homalogammarus_brandtii_rnaspades       _R_NODE_83_length_6884_cov_5659.630724_g2_i3Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.43%    2122      
+Homalogammarus_brandtii_rnaspades       _R_NODE_83_length_6884_cov_5659.630724_g2_i3Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.16%    2263      
+Hyalellopsis_carinata_rnaspades         NODE_73_length_10202_cov_5205.381070_g3_i3Best_Identity  MN005106.1          Hyalellopsis carinata isolate 32.3_18S s0.0e+00   99.53%    2129      
+Hyalellopsis_carinata_rnaspades         NODE_73_length_10202_cov_5205.381070_g3_i3Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.2%     2263      
+Hyalellopsis_costata_rnaspades          _R_NODE_96_length_8961_cov_4259.340552_g3_i1Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.16%    2132      
+Hyalellopsis_costata_rnaspades          _R_NODE_96_length_8961_cov_4259.340552_g3_i1Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   98.94%    2263      
+Hyalellopsis_grisea_rnaspades           NODE_465_length_6632_cov_14930.140969_g76_i1Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.39%    2132      
+Hyalellopsis_grisea_rnaspades           NODE_465_length_6632_cov_14930.140969_g76_i1Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.07%    2263      
+Hyalellopsis_stebbingi_rnaspades        _R_NODE_70_length_9313_cov_12543.626619_g5_i8Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.39%    2132      
+Hyalellopsis_stebbingi_rnaspades        _R_NODE_70_length_9313_cov_12543.626619_g5_i8Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.07%    2263      
+Linevichella_vortex_rnaspades           _R_NODE_14_length_11798_cov_4941.989957_g9_i0Best_Identity  MN005102.1          Linevichella vortex isolate 23.2_18S sma0.0e+00   99.53%    2116      
+Linevichella_vortex_rnaspades           _R_NODE_14_length_11798_cov_4941.989957_g9_i0Best_Evalue    AF202982.1          Gammarus pulex 18S ribosomal RNA gene, c0.0e+00   98.13%    2250      
+Macrohectopus_branickii_rnaspades       _R_NODE_18_length_9378_cov_2628.209240_g7_i0Best_Identity  MN005110.1          Asprogammarus sp. VNM-2020 isolate 39.2_0.0e+00   98.96%    2114      
+Macrohectopus_branickii_rnaspades       _R_NODE_18_length_9378_cov_2628.209240_g7_i0Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   98.45%    2265      
+Macropereiopus_parvus_rnaspades         _R_NODE_9621_length_2238_cov_9420.869804_g15_i26Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.86%    2122      
+Macropereiopus_parvus_rnaspades         _R_NODE_9621_length_2238_cov_9420.869804_g15_i26Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.38%    2241      
+Macropereiopus_wagneri_rnaspades        _R_NODE_2_length_9877_cov_2344.705332_g1_i0Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.95%    2132      
+Macropereiopus_wagneri_rnaspades        _R_NODE_2_length_9877_cov_2344.705332_g1_i0Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.6%     2263      
+Micruropus_glaber_rnaspades             _R_NODE_3223_length_3368_cov_7811.281109_g505_i3Best_Identity  MN005109.1          Micruropus glaber isolate 36.2_18S small0.0e+00   99.72%    2106      
+Micruropus_glaber_rnaspades             _R_NODE_3223_length_3368_cov_7811.281109_g505_i3Best_Evalue    AF202982.1          Gammarus pulex 18S ribosomal RNA gene, c0.0e+00   98.09%    2250      
+Micruropus_parvulus_rnaspades           NODE_3662_length_2994_cov_5255.437351_g2298_i0Best_Identity  MN005110.1          Asprogammarus sp. VNM-2020 isolate 39.2_0.0e+00   99.76%    2106      
+Micruropus_parvulus_rnaspades           NODE_3662_length_2994_cov_5255.437351_g2298_i0Best_Evalue    MW729667.1          Gammarus sp. GAHBH4 small subunit riboso0.0e+00   98.68%    2192      
+Micruropus_wahlii_rnaspades             NODE_2235_length_4814_cov_941.411789_g1104_i2Best_Identity  MN005109.1          Micruropus glaber isolate 36.2_18S small0.0e+00   99.57%    2106      
+Micruropus_wahlii_rnaspades             NODE_2235_length_4814_cov_941.411789_g1104_i2Best_Evalue    AF202982.1          Gammarus pulex 18S ribosomal RNA gene, c0.0e+00   98.09%    2250      
+Odontogammarus_calcaratus_rnaspades     NODE_1178_length_5745_cov_15851.677844_g24_i8Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.39%    2132      
+Odontogammarus_calcaratus_rnaspades     NODE_1178_length_5745_cov_15851.677844_g24_i8Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.25%    2263      
+Ommatogammarus_albinus_rnaspades        NODE_11357_length_2430_cov_15614.749685_g7495_i0Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.53%    2132      
+Ommatogammarus_albinus_rnaspades        NODE_11357_length_2430_cov_15614.749685_g7495_i0Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.29%    2257      
+Ommatogammarus_flavus_rnaspades         _R_NODE_1138_length_6119_cov_1853.086326_g805_i0Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.34%    2134      
+Ommatogammarus_flavus_rnaspades         _R_NODE_1138_length_6119_cov_1853.086326_g805_i0Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.12%    2265      
+Oxyacanthus_curtus_rnaspades            NODE_99_length_9790_cov_1163.796222_g49_i0Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.77%    2132      
+Oxyacanthus_curtus_rnaspades            NODE_99_length_9790_cov_1163.796222_g49_i0Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.51%    2263      
+Oxyacanthus_flavus_rnaspades            NODE_1446_length_6124_cov_3732.498601_g289_i4Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.58%    2132      
+Oxyacanthus_flavus_rnaspades            NODE_1446_length_6124_cov_3732.498601_g289_i4Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.34%    2263      
+Oxyacanthus_sowinskii_rnaspades         NODE_81_length_11318_cov_1047.637412_g24_i0Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.77%    2132      
+Oxyacanthus_sowinskii_rnaspades         NODE_81_length_11318_cov_1047.637412_g24_i0Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.51%    2263      
+Pachyschesis_branchialis_2_rnaspades    _R_NODE_23_length_6446_cov_20621.238706_g3_i3Best_Identity  MN005107.1          Pachyschesis branchialis isolate 35.6_180.0e+00   99.76%    2093      
+Pachyschesis_branchialis_2_rnaspades    _R_NODE_23_length_6446_cov_20621.238706_g3_i3Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   98.17%    2289      
+Pachyschesis_branchialis_rnaspades      NODE_409_length_8013_cov_9483.899171_g11_i3Best_Identity  MN005107.1          Pachyschesis branchialis isolate 35.6_180.0e+00   99.14%    2093      
+Pachyschesis_branchialis_rnaspades      NODE_409_length_8013_cov_9483.899171_g11_i3Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   98.6%     2278      
+Palicarinus_puzyllii_rnaspades          _R_NODE_3593_length_3865_cov_8783.760744_g830_i9Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.86%    2132      
+Palicarinus_puzyllii_rnaspades          _R_NODE_3593_length_3865_cov_8783.760744_g830_i9Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.69%    2263      
+Pallasea_cancelloides_2_rnaspades       _R_NODE_2870_length_3262_cov_1005.855988_g2001_i0Best_Identity  MN005101.1          Eucarinogammarus wagii isolate 2.2_18S s0.0e+00   99.58%    2131      
+Pallasea_cancelloides_2_rnaspades       _R_NODE_2870_length_3262_cov_1005.855988_g2001_i0Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.38%    2263      
+Pallasea_cancelloides_rnaspades         _R_NODE_1545_length_2819_cov_6883.720217_g1047_i0Best_Identity  MN005101.1          Eucarinogammarus wagii isolate 2.2_18S s0.0e+00   99.58%    2131      
+Pallasea_cancelloides_rnaspades         _R_NODE_1545_length_2819_cov_6883.720217_g1047_i0Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.41%    2209      
+Pallasea_cancellus_rnaspades            _R_NODE_5509_length_3133_cov_2359.075875_g3414_i0Best_Identity  MN005101.1          Eucarinogammarus wagii isolate 2.2_18S s0.0e+00   99.44%    2132      
+Pallasea_cancellus_rnaspades            _R_NODE_5509_length_3133_cov_2359.075875_g3414_i0Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.2%     2264      
+Pallasea_grubei_rnaspades               NODE_123_length_9302_cov_7468.705069_g7_i3Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.67%    2122      
+Pallasea_grubei_rnaspades               NODE_123_length_9302_cov_7468.705069_g7_i3Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.47%    2263      
+Pallasea_sp._gam7.3_rnaspades           _R_NODE_140_length_9124_cov_1462.715372_g31_i1Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.53%    2122      
+Pallasea_sp._gam7.3_rnaspades           _R_NODE_140_length_9124_cov_1462.715372_g31_i1Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.25%    2263      
+Pallaseopsis_kessleri_rnaspades         NODE_91_length_9083_cov_1529.376356_g43_i0Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.53%    2132      
+Pallaseopsis_kessleri_rnaspades         NODE_91_length_9083_cov_1529.376356_g43_i0Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.38%    2263      
+Pandorites_podoceroides_rnaspades       NODE_4_length_9829_cov_950.867280_g2_i0Best_Identity  KF478615.1          Obesogammarus crassus voucher SLOCHN055 0.0e+00   100.0%    1922      
+Pandorites_podoceroides_rnaspades       NODE_4_length_9829_cov_950.867280_g2_i0Best_Evalue    EF582898.1          Dikerogammarus villosus voucher 676 18S 0.0e+00   99.31%    2162      
+Parapallasea_borowskii_rnaspades        _R_NODE_27_length_11504_cov_24171.412833_g16_i0Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.67%    2132      
+Parapallasea_borowskii_rnaspades        _R_NODE_27_length_11504_cov_24171.412833_g16_i0Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.51%    2263      
+Parapallasea_wosnessenskii_rnaspades    _R_NODE_838_length_6187_cov_13281.478495_g553_i1Best_Identity  MN005113.1          Macropereiopus wagneri isolate 9.7_18S s0.0e+00   99.67%    2132      
+Parapallasea_wosnessenskii_rnaspades    _R_NODE_838_length_6187_cov_13281.478495_g553_i1Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.51%    2263      
+Pentagonurus_dawydowi_rnaspades         NODE_191_length_9000_cov_3576.026813_g84_i1Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.72%    2122      
+Pentagonurus_dawydowi_rnaspades         NODE_191_length_9000_cov_3576.026813_g84_i1Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.51%    2263      
+Poekilogammarus_pictoides_rnaspades     _R_NODE_108_length_9847_cov_10119.760870_g10_i5Best_Identity  MN005103.1          Macropereiopus parvus isolate 24.7_18S s0.0e+00   99.48%    2122      
+Poekilogammarus_pictoides_rnaspades     _R_NODE_108_length_9847_cov_10119.760870_g10_i5Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   99.29%    2263      
+Sluginella_kietlinskii_rnaspades        NODE_309_length_3524_cov_3241.044291_g220_i0Best_Identity  MN005100.1          Eulimnogammarus cyaneus isolate 18.1_18S0.0e+00   98.87%    2131      
+Sluginella_kietlinskii_rnaspades        NODE_309_length_3524_cov_3241.044291_g220_i0Best_Evalue    AF419223.1          Parapallasea lagowski 18S small subunit 0.0e+00   98.63%    2255      
+Talitrus_saltator_rnaspades             NODE_36_length_9591_cov_379.381891_g28_i0Best_Identity  OQ514219.1          Talitrus saltator voucher Trinity2111tal0.0e+00   99.95%    1914      
+Talitrus_saltator_rnaspades             NODE_36_length_9591_cov_379.381891_g28_i0Best_Evalue    AY826955.1          Talitrus saltator 18S ribosomal RNA gene0.0e+00   99.39%    2293      

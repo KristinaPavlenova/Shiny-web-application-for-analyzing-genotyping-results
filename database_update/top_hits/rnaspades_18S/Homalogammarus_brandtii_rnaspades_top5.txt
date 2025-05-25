@@ -1,0 +1,5 @@
+NODE_83_length_6884_cov_5659.630724_g2_i3
+NODE_19_length_9270_cov_5471.999132_g2_i1
+NODE_3_length_13106_cov_5368.353986_g2_i0
+NODE_3_length_13106_cov_5368.353986_g2_i0
+NODE_39_length_7942_cov_4761.341188_g2_i2

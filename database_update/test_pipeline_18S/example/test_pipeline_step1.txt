@@ -1,0 +1,6 @@
+mkdir -p blast_dbs
+
+for f in fastas/*.fasta; do
+    base=$(basename "$f" .fasta)
+    makeblastdb -in "$f" -blastdb_version 5 -dbtype nucl -hash_index -out "blast_dbs/$base"
+done
