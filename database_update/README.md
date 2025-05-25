@@ -102,13 +102,14 @@ During this check results of alignment of gene sequences obtained for different 
 - Analysis of the results of check 3 for assembly selection for sequences that had different lengths and low identity when compared (see `Shiny-web-application-for-analyzing-genotyping-results/database_update/main_pipeline/LabNotebook.pdf`)
 - Gaps removing in sequences in final fasta files 
 - Condensing information to the file `Shiny-web-application-for-analyzing-genotyping-results/database_update/seqs_to_database.csv` for sequences that can be added from transcriptome assemblies to app database.
-- Updating database
+- Updating database (a total of 117 new COI and 18S sequences with their geographic coordinates were added and 18 ones without geographic coordinates).
 
 
 **Notes:**
 - All obtained sequences passed all checks and COI sequences that have not passed check 3 are collected in the directory `Shiny-web-application-for-analyzing-genotyping-results/database_update/final_seqs` 
 - Files with results of step 2 are collected in the directory `Shiny-web-application-for-analyzing-genotyping-results/database_update/top_hits`
 - Files with checks 1-3 results are collected in the directory `Shiny-web-application-for-analyzing-genotyping-results/database_update/top1_check`
+- One sample was identified to genus (*Eulimnogammarus sp.*) in the original data and high identity for COI was found with the *E. maackii* species sequence published in NCBI
 
 
 #### 2.2 Test pipeline 
