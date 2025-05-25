@@ -155,11 +155,11 @@ python test_pipeline_step83.py
 ```bash
 python test_pipeline_step9.py
 ```
-10. **Merge all validated sequences**  
+10. **Transform and save all validated sequences**  
 ```bash
 python test_pipeline_step10.py
 ```
-11. **UGENE-based identity check (global PairwiseAligner)**  
+11. **Identity check with reference (PairwiseAligner)**  
 ```bash
 python test_pipeline_step11.py
 ```
