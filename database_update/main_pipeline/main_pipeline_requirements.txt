@@ -1,0 +1,8 @@
+# Python packages
+biopython = 1.85
+pandas = 2.2.3
+requests = 2.32.3
+
+# Bioinformatics tools (must be installed on the system)
+blastn = 2.12.0+
+mafft = v7.525

@@ -6,7 +6,7 @@
   "description": "18S_reference.fasta",
   "number-of-letters": 2267,
   "number-of-sequences": 1,
-  "last-updated": "2025-05-25T15:11:00",
+  "last-updated": "2025-05-25T20:28:00",
   "number-of-volumes": 1,
   "bytes-total": 37853,
   "bytes-to-cache": 696,

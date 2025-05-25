@@ -6,7 +6,7 @@
   "description": "fastas/Macropereiopus_wagneri_rnaspades.fasta",
   "number-of-letters": 34071394,
   "number-of-sequences": 65738,
-  "last-updated": "2025-05-25T15:10:00",
+  "last-updated": "2025-05-25T20:26:00",
   "number-of-volumes": 1,
   "bytes-total": 18962782,
   "bytes-to-cache": 9370987,
