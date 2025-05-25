@@ -37,6 +37,7 @@ for fasta in fastanames:
                 ],
                 stdout=out_file,
             )
+        print(f"Step3 for {name} done")
     except subprocess.CalledProcessError as e:
         logging.error(f"Ошибка при запуске MAFFT для {name}: {e}")
         continue

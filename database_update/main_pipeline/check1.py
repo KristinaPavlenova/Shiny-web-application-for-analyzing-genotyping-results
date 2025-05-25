@@ -49,3 +49,4 @@ for fasta in fastanames:
                 f"{len(clean_seq):<10}\t"
                 f"{'n' not in clean_seq}\n"
             )
+print(f"Check1 done")

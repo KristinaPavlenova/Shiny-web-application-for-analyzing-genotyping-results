@@ -122,3 +122,4 @@ for fasta in fastanames:
                     f"{str(hit['identity']) + '%':<10}\t"
                     f"{hit['align_len']:<10}\n"
                 )
+print(f"Check2 done")

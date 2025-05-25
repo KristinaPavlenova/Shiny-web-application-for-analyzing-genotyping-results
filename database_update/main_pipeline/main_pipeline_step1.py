@@ -52,6 +52,7 @@ for fasta in fastanames:
             ]
         )
         shutil.rmtree("databases")
+        print(f"Step1 for {name} done")
     except Exception as e:
         logging.error(f"Ошибка при blast-выравнивании для {name}: {e}")
         continue

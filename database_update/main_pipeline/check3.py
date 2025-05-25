@@ -101,3 +101,4 @@ for seq_id in ids_unique_trinity:
 df = pd.DataFrame(results)
 df = df.sort_values("Sequence_ID", ignore_index=True)
 df.to_csv(os.path.join("main_pipeline_results", f"comparison_summary_{gene}.txt"), sep="\t", index=False)
+print(f"Check3 done")
