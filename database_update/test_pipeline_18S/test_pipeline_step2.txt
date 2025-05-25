@@ -1,0 +1,7 @@
+mkdir -p blast_results
+
+for db in blast_dbs/*.nsq; do
+    base=$(basename "$db" .nsq);     
+    blastn -query 18S_reference.fasta -db "blast_dbs/$base" -out "blast_results/${base}_vs_18S_reference.txt" -evalue 1e-5 -outfmt 6 -max_target_seqs 10; 
+done
+

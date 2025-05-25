@@ -22,9 +22,9 @@ def process_all_files(folder_path):
         best_hit = get_best_hit(file_path)  # 1st contig
         if best_hit:
             new_file_name = f"{os.path.splitext(fasta_file)[0][:-5]}_best.fasta"
-    new_file_path = os.path.join(folder_res, new_file_name)
-    with open(new_file_path, "w") as new_handle:
-        new_handle.write(best_hit)
+        new_file_path = os.path.join(folder_res, new_file_name)
+        with open(new_file_path, "w") as new_handle:
+            new_handle.write(best_hit)
 
 
 process_all_files(folder_path)

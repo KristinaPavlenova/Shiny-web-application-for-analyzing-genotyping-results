@@ -9,8 +9,8 @@ MIN_IDENTITY = 90.0
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(BLASTDB_DIR, exist_ok=True)
 
-# BLAST бд из референса
-print("Создаём BLAST базу данных...")
+# BLAST DB from ref
+print("Creating BLAST DB...")
 base_name = os.path.splitext(os.path.basename(REFERENCE))[0]
 db_command = (
     f"makeblastdb -in {REFERENCE} -blastdb_version 5 "
@@ -18,7 +18,7 @@ db_command = (
 )
 os.system(db_command)
 
-print("\nПроверка последовательности...")
+print("\nChecking seq...")
 for filename in os.listdir(INPUT_DIR):
     if not filename.endswith("_processed.fasta"):
         continue
@@ -34,16 +34,16 @@ for filename in os.listdir(INPUT_DIR):
     try:
         with open(blast_output) as f:
             identity = float(f.readline().split()[0])
-        print(f"{filename}: идентичность {identity:.1f}%", end=" ")
+        print(f"{filename}: identity {identity:.1f}%", end=" ")
 
         if identity >= MIN_IDENTITY:
             with open(input_file) as src, open(output_file, "w") as dst:
                 dst.write(src.read())
-            print("Сохранено")
+            print("Saved")
         else:
-            print("Слишком низкая идентичность")
+            print("Too low identity")
     except Exception as e:
-        print(f"{filename}: ошибка при проверке ({str(e)})")
+        print(f"{filename}: error while checking ({str(e)})")
     if os.path.exists(blast_output):
         os.remove(blast_output)
-print("\nПроверка закончена!")
+print("\nChecking finished!")

@@ -43,7 +43,7 @@ for filename in os.listdir(INPUT_DIR):
         print(f"ERROR: Trimmed file not created for {filename}")
         os.remove(combined_file)
         continue
-    # проверка длины
+    # check lenght
     try:
         trimmed_seqs = list(SeqIO.parse(trimmed_file, "fasta"))
         if len(trimmed_seqs) != 2:

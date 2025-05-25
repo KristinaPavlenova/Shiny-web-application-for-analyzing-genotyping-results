@@ -2,8 +2,8 @@ import os
 from Bio import SeqIO
 
 best_hits_dir = "./best_hits"
-fasta_dir = "/media/tertiary/transcriptome_assemblies/rnaspades_reassemblies"
-output_dir = "./5_hits_seqs_TEST"
+fasta_dir = "./fastas"
+output_dir = "./5_hits_seqs"
 os.makedirs(output_dir, exist_ok=True)
 
 hit_files = [
@@ -15,7 +15,7 @@ for hit_file in hit_files:
     fasta_filename = species_name + ".fasta"
     fasta_path = os.path.join(fasta_dir, fasta_filename)
     if not os.path.exists(fasta_path):
-        print(f"Файл {fasta_path} не найден, пропускаем...")
+        print(f"File {fasta_path} is not found...")
         continue
 
     best_hits_path = os.path.join(best_hits_dir, hit_file)
@@ -24,11 +24,11 @@ for hit_file in hit_files:
             line.strip().split("\t")[1] for line in f.readlines()
         ]  # contig names
     output_fasta_path = os.path.join(output_dir, f"{species_name}_18S_top5.fasta")
-    # извлечение последовательности
+    # taking seq
     with open(output_fasta_path, "w") as out_f:
         for record in SeqIO.parse(fasta_path, "fasta"):
             if record.id in best_hits:
                 out_f.write(
                     f">Naumenko_18S_{species_name}_{record.id}\n{str(record.seq)}\n"
                 )
-print(f"Сохранено в файле {output_fasta_path}")
+        print(f"Saved in file {output_fasta_path}")
