@@ -49,4 +49,4 @@ for fasta in fastanames:
                 f"{len(clean_seq):<10}\t"
                 f"{'n' not in clean_seq}\n"
             )
-print(f"Check1 done")
+print(f"Check1 'Trimmed top1 sequences filtration by length, ‘NNN’ and gaps content' done")

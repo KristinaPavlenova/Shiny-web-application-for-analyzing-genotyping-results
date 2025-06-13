@@ -122,4 +122,4 @@ for fasta in fastanames:
                     f"{str(hit['identity']) + '%':<10}\t"
                     f"{hit['align_len']:<10}\n"
                 )
-print(f"Check2 done")
+print(f"Check2 'The best hits by e-value and identity of trimmed top1 sequences BLAST to NCBI database' done")

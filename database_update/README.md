@@ -3,6 +3,18 @@ This repo was created to update database of the speCOIdent app. Updating was per
 
 The use of the pipelines presented below for extracting sequences from transcriptome assemblies is also possible for other transcriptome results.
 
+## Table of Contents
+
+- [Update Steps](#update-steps)
+  - [1. COI from NCBI](#1-coi-from-ncbi)
+  - [2. COI and 18S from Transcriptome Assemblies](#2-coi-and-18s-from-transcriptome-assemblies)
+    - [2.1 Main Pipeline and Checks](#21-main-pipeline-and-checks)
+    - [2.2 Test Pipeline](#22-test-pipeline)
+- [Results](#results)
+- [Example of Main Pipeline Usage](#example-of-main-pipeline-usage)
+- [System Requirements](#system-requirements)
+- [Authors](#authors)
+
 ## Update steps:
 
 ### 1. COI from NCBI
@@ -28,7 +40,8 @@ This pipeline consists of **5 sequential steps** for processing COI and 18S sequ
 **Pipeline Steps:**
 
 The file `config.py` must specify the path to the directory with the input data (`input_dir`) and to the reference fasta (`reference`), the path to file for recording logs (`log_file`), the variant of assembly (`assembly = "rnaspades"` or `assembly = "trinity"`), the gene (`gene = "COI"` or `gene = "18S"`), the number of best hits for step 2 (`top_n`, default `top_n = 5`), the indexes (sequence number) of the input fasta files for cases when not all files in the directory need to be processed (`idxs`) and the path to directory for saving the fasta file with trimmed sequences (`dir_final_fasta`).
-
+<details>
+  <summary>Click to expand</summary>
 1. **BLAST alignment of reference to BLAST database with transcriptome results**
 ```bash
 python main_pipeline_step1.py
@@ -89,6 +102,7 @@ python check3.py
 
 During this check results of alignment of gene sequences obtained for different assemblies are collected in the directory `./main_pipeline_results/comparison_{gene}`, results of comparison - in the file  `./main_pipeline_results/comparison_summary_{gene}.txt`
 
+</details>
 
 **Output:**
 - Final files containing the found sequences: `./main_pipeline_results/final_seqs/{assembly}_{gene}.fasta` 
@@ -109,7 +123,6 @@ During this check results of alignment of gene sequences obtained for different 
 - All obtained sequences passed all checks and COI sequences that have not passed check 3 are collected in the directory `Shiny-web-application-for-analyzing-genotyping-results/database_update/final_seqs` 
 - Files with results of step 2 are collected in the directory `Shiny-web-application-for-analyzing-genotyping-results/database_update/top_hits`
 - Files with checks 1-3 results are collected in the directory `Shiny-web-application-for-analyzing-genotyping-results/database_update/top1_check`
-- One sample was identified to genus (*Eulimnogammarus sp.*) in the original data and high identity for COI was found with the *E. maackii* species sequence published in NCBI
 
 
 #### 2.2 Test pipeline 
@@ -124,6 +137,9 @@ This pipeline consists of **11 sequential steps** for processing 18S sequences. 
 - Packages and tools are available in file `test_pipeline_requirements.txt`
 
 **Pipeline Steps:**
+<details>
+  <summary>Click to expand</summary>
+
 1. **Make BLAST databases**  
    Execute commands from `test_pipeline_step1.txt`
 2. **Align to reference**  
@@ -164,6 +180,7 @@ python test_pipeline_step10.py
 ```bash
 python test_pipeline_step11.py
 ```
+</details>
 
 **Output:**
 - Final file: `final_file.fasta` (headers matched to `./geographic_coordinates` table)
@@ -184,6 +201,22 @@ python test_pipeline_step11.py
 - Adjust file paths in scripts if needed
 - Ensure dependencies are installed (see `test_pipeline_requirements.txt`)
 
+## Results
+
+- One sample from transcriptome results was identified to genus (*Eulimnogammarus sp.*) in the original data and high identity for COI was found with the *E. maackii* species sequence published in NCBI
+
+- Results for transcriptome COI and 18S
+
+![pic](transcriptome_COI_18S.png)
+
+- Summary of added sequences
+
+|                                     | COI from NCBI | Main pipeline<br>transcriptome COI | Main pipeline<br>transcriptome 18S | Test pipeline<br>transcriptome | Totally added to database |
+|-------------------------------------|---------------|-------------------------------------|------------------------------------|-------------------------------|----------------------------|
+| **Count of Baikal amphipods sequences**     | 14            | 65                                  | 65                                 | 37                            | –                          |
+| **Samples with no coords**                 | 0             | 11                                  | 11                                 | 11                            | –                          |
+| **Sequences did not pass NCBI Check**      | –             | 5                                   | 0                                  | 0                             | –                          |
+| **Added to database**                      | 14            | 49                                  | 54                                 | 0 *(26 final seqs)*           | **117**                    |
 
 ## Example of main pipeline usage
 
@@ -192,11 +225,7 @@ Download ```main_pipeline``` directory to your computer
 🚀 Execute the following commands in the terminal:
 
 ```bash
-python main_pipeline_step1.py
-python main_pipeline_step2.py
-python main_pipeline_step3.py
-python main_pipeline_step4.py
-python main_pipeline_step5.py
+bash run_main_pipeline.sh
 python check1.py
 python check2.py
 ```
@@ -214,11 +243,7 @@ assembly = "trinity"
 🚀 Execute the following commands in the terminal:
 
 ```bash
-python main_pipeline_step1.py
-python main_pipeline_step2.py
-python main_pipeline_step3.py
-python main_pipeline_step4.py
-python main_pipeline_step5.py
+bash run_main_pipeline.sh
 python check1.py
 python check2.py
 python check3.py
@@ -226,6 +251,7 @@ python check3.py
 You must obtain the files, as in ```main_pipeline_results_example``` directory
 
 ## System requirements
+- Linux-based OS
 - Python 3.x
 
 ## 👥 Authors

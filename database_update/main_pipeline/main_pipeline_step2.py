@@ -76,7 +76,7 @@ for fasta in fastanames:
             for record in SeqIO.parse(file, "fasta"):
                 if record.id in required_ids:
                     SeqIO.write(record, out_file, "fasta")
-        print(f"Step2 for {name} done")
+        print(f"Step2 'Hits filtration by length (+ coverage for rnaspades) and top hits selection by e-value (+ coverage for rnaspades)' for {name} done")
     except Exception as e:
         logging.error(f"Ошибка при получении топ хитов blast-выравнивания для {name}: {e}")
         continue
