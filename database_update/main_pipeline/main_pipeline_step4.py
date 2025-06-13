@@ -57,7 +57,7 @@ for fasta in fastanames:
             for record in SeqIO.parse(mafft_result, "fasta"):
                 if record.id in list(df_sorted["Sequence ID"][:2]):
                     SeqIO.write(record, out_file, "fasta")
-        print(f"Step4 for {name} done")
+        print(f"Step4 'Top1 selection by reference identity (+ coverage for rnaspades)' for {name} done")
     except Exception as e:
         logging.error(f"Ошибка при выборе топ1 результатов MAFFT для {name}: {e}")
         continue

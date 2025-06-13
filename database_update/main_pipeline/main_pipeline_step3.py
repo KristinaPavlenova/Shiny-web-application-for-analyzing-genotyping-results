@@ -37,7 +37,7 @@ for fasta in fastanames:
                 ],
                 stdout=out_file,
             )
-        print(f"Step3 for {name} done")
+        print(f"Step3 'Global multiple alignment of top hits to reference' for {name} done")
     except subprocess.CalledProcessError as e:
         logging.error(f"Ошибка при запуске MAFFT для {name}: {e}")
         continue

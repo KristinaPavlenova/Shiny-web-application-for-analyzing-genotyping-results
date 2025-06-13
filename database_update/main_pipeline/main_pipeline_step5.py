@@ -44,7 +44,7 @@ for fasta in fastanames:
                 Seq(cleaned_seq), id=alignment[-1].id, description=""
             )
             SeqIO.write(trimmed_record, out_file, "fasta")
-        print(f"Step5 for {name} done")
+        print(f"Step5 'Top1 trimming by reference gene boundaries' for {name} done")
     except Exception as e:
         logging.error(f"Ошибка при обрезке последовательности {name}: {e}")
         continue
